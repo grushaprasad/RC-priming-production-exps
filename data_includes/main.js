@@ -159,9 +159,11 @@ PennController("participant_obs",
 PennController.SendResults("send_results");
 
 PennController("exp_end", 
-    newText("end", "Thank you for participating in this experiment. Your survey code is TyhRSx3k7")
+    newHtml("end", "end_of_exp.html")
+        .settings.log()
         .print()
     ,
+
 
     newTimer("forever", 1)
         .wait()            // Timer never started: will wait forever
