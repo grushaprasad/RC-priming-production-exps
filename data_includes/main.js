@@ -67,7 +67,7 @@ PennController.Template(row => PennController( "experiment" ,
     
     newText("prompt", row.sentence)
         .settings.center()
-        .settings.css("margin", "50px")
+        .settings.css("margin", "20px")
         .print()
     ,
 
@@ -82,6 +82,7 @@ PennController.Template(row => PennController( "experiment" ,
 
     newButton("continue", "Next prompt")
         .settings.center()
+        //.settings.css("margin", "20px")
         .settings.log()
         .print()
         .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\\s+\\w+", 'i')))
