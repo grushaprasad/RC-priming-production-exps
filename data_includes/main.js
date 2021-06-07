@@ -84,6 +84,10 @@ PennController.Template(row => PennController( "experiment" ,
       .settings.log("final")
     ,
 
+    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> Do not refresh the page. Your progress will be lost</b>")
+        .settings.center()
+        .print()
+    ,
 
     newButton("continue", "Next prompt")
         .settings.center()
@@ -94,10 +98,6 @@ PennController.Template(row => PennController( "experiment" ,
         .remove()
     ,
 
-    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> Do not refresh the page. Your progress will be lost</b>")
-        .settings.center()
-        .print()
-    ,
 
 
     getVar("RT").set( v_rt => Date.now() - v_rt )
