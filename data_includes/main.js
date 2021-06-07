@@ -65,7 +65,6 @@ PennController.Template(row => PennController( "experiment" ,
     
     newText("prompt", row.sentence)
         .settings.center()
-//        .settings.css("margin", "20px")
         .print()
     ,
 

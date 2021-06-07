@@ -24,5 +24,8 @@ button.PennController-Button {
 }
 
 input.PennController-TextInput {
-    margin: 50px
+    margin: 50px;
+    width: 100%;
+    height: 100%
+
 }
