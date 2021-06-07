@@ -63,7 +63,7 @@ PennController("instructions",
 
 PennController.Template(row => PennController( "experiment" ,
     
-    newText("reminder", "Remember to re-type the prompt followed by your completion")
+    newText("reminder", "<b>Remember to re-type the prompt followed by your completion</b>")
         .settings.center()
         .settings.css("font-size", "small")
         .print()
