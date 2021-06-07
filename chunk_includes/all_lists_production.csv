@@ -1,0 +1,1537 @@
+Group,sent_type,struc,prime_type,verb,verb_num,sent_id,sentence
+list_1A,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1A,prime,rrc,NA,recorded,1,recorded1,The priest recorded by the mob
+list_1A,target,rrc_ambig,rrc,recorded,2,recorded2,The management recorded
+list_1A,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1A,prime,urc,NA,loved,1,loved1,The landlord who was loved by the tenants
+list_1A,target,rrc_ambig,urc,loved,2,loved2,The comedian loved
+list_1A,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1A,prime,urc,NA,described,1,described1,The boy who was described by the lady
+list_1A,target,rrc_ambig,urc,described,2,described2,The secretary described
+list_1A,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1A,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1A,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1A,prime,rrc_ambig,NA,examined,1,examined1,The defendant examined
+list_1A,target,rrc_ambig,rrc_ambig,examined,2,examined2,The engineer examined
+list_1A,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1A,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1A,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1A,prime,urc,NA,envied,1,envied1,The officer who was envied by the assistant
+list_1A,target,rrc_ambig,urc,envied,2,envied2,The principal envied
+list_1A,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1A,prime,urc,NA,captured,1,captured1,The policeman who was captured by the kidnapper
+list_1A,target,rrc_ambig,urc,captured,2,captured2,The witch captured
+list_1A,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1A,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1A,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1A,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1A,prime,urc,NA,scratched,1,scratched1,The girl who was scratched by the cat
+list_1A,target,rrc_ambig,urc,scratched,2,scratched2,The toddler scratched
+list_1A,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1A,prime,rrc,NA,consoled,1,consoled1,The widow consoled by the family
+list_1A,target,rrc_ambig,rrc,consoled,2,consoled2,The teenager consoled
+list_1A,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1A,prime,rrc_ambig,NA,attacked,1,attacked1,The troops attacked
+list_1A,target,rrc_ambig,rrc_ambig,attacked,2,attacked2,The lion attacked
+list_1A,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1A,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1A,prime,prog_rrc,NA,paid,1,paid1,The cashier being paid by the customer
+list_1A,target,rrc_ambig,prog_rrc,paid,2,paid2,The organization paid
+list_1A,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1A,prime,rrc,NA,accompanied,1,accompanied1,The prince accompanied by the duke
+list_1A,target,rrc_ambig,rrc,accompanied,2,accompanied2,The children accompanied
+list_1A,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1A,prime,rrc_ambig,NA,recognized,1,recognized1,The man recognized
+list_1A,target,rrc_ambig,rrc_ambig,recognized,2,recognized2,The actor recognized
+list_1A,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1A,prime,prog_rrc,NA,chased,1,chased1,The dog being chased by the boy
+list_1A,target,rrc_ambig,prog_rrc,chased,2,chased2,The monkey chased
+list_1A,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1A,prime,rrc,NA,studied,1,studied1,The solider studied by the general
+list_1A,target,rrc_ambig,rrc,studied,2,studied2,The writer studied
+list_1A,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1A,prime,rrc,NA,betrayed,1,betrayed1,The politician betrayed by the party
+list_1A,target,rrc_ambig,rrc,betrayed,2,betrayed2,The king betrayed
+list_1A,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1A,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1A,prime,rrc_ambig,NA,challenged,1,challenged1,The protestors challenged
+list_1A,target,rrc_ambig,rrc_ambig,challenged,2,challenged2,The scientist challenged
+list_1A,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1A,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1A,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1A,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1A,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1A,prime,prog_rrc,NA,selected,1,selected1,The applicant being selected by the company
+list_1A,target,rrc_ambig,prog_rrc,selected,2,selected2,The professor selected
+list_1A,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1A,prime,rrc_ambig,NA,congratulated,1,congratulated1,The captain congratulated
+list_1A,target,rrc_ambig,rrc_ambig,congratulated,2,congratulated2,The actress congratulated
+list_1A,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1A,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1A,prime,prog_rrc,NA,encouraged,1,encouraged1,The gymnast being encouraged by the coach
+list_1A,target,rrc_ambig,prog_rrc,encouraged,2,encouraged2,The musician encouraged
+list_1A,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1A,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1A,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1A,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1A,prime,rrc,NA,identified,1,identified1,The thief identified by the victim
+list_1A,target,rrc_ambig,rrc,identified,2,identified2,The warden identified
+list_1A,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1A,prime,urc,NA,admired,1,admired1,The singer who was admired by the fans
+list_1A,target,rrc_ambig,urc,admired,2,admired2,The princess admired
+list_1A,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1A,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1A,prime,prog_rrc,NA,approached,1,approached1,The student being approached by the teacher
+list_1A,target,rrc_ambig,prog_rrc,approached,2,approached2,The clerk approached
+list_1A,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1A,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1A,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1A,prime,prog_rrc,NA,introduced,1,introduced1,The speaker being introduced by the chairman
+list_1A,target,rrc_ambig,prog_rrc,introduced,2,introduced2,The producer introduced
+list_1A,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1A,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1A,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1A,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1A,prime,rrc_ambig,NA,sketched,1,sketched1,The culprit sketched
+list_1A,target,rrc_ambig,rrc_ambig,sketched,2,sketched2,The apprentice sketched
+list_1A,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1B,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1B,prime,urc,NA,recorded,1,recorded1,The priest who was recorded by the mob
+list_1B,target,rrc_ambig,urc,recorded,2,recorded2,The management recorded
+list_1B,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1B,prime,prog_rrc,NA,loved,1,loved1,The landlord being loved by the tenants
+list_1B,target,rrc_ambig,prog_rrc,loved,2,loved2,The comedian loved
+list_1B,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1B,prime,prog_rrc,NA,described,1,described1,The boy being described by the lady
+list_1B,target,rrc_ambig,prog_rrc,described,2,described2,The secretary described
+list_1B,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1B,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1B,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1B,prime,rrc,NA,examined,1,examined1,The defendant examined by the lawyer
+list_1B,target,rrc_ambig,rrc,examined,2,examined2,The engineer examined
+list_1B,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1B,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1B,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1B,prime,prog_rrc,NA,envied,1,envied1,The officer being envied by the assistant
+list_1B,target,rrc_ambig,prog_rrc,envied,2,envied2,The principal envied
+list_1B,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1B,prime,prog_rrc,NA,captured,1,captured1,The policeman being captured by the kidnapper
+list_1B,target,rrc_ambig,prog_rrc,captured,2,captured2,The witch captured
+list_1B,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1B,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1B,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1B,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1B,prime,prog_rrc,NA,scratched,1,scratched1,The girl being scratched by the cat
+list_1B,target,rrc_ambig,prog_rrc,scratched,2,scratched2,The toddler scratched
+list_1B,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1B,prime,urc,NA,consoled,1,consoled1,The widow who was consoled by the family
+list_1B,target,rrc_ambig,urc,consoled,2,consoled2,The teenager consoled
+list_1B,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1B,prime,rrc,NA,attacked,1,attacked1,The troops attacked by the terrorists
+list_1B,target,rrc_ambig,rrc,attacked,2,attacked2,The lion attacked
+list_1B,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1B,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1B,prime,rrc_ambig,NA,paid,1,paid1,The cashier paid
+list_1B,target,rrc_ambig,rrc_ambig,paid,2,paid2,The organization paid
+list_1B,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1B,prime,urc,NA,accompanied,1,accompanied1,The prince who was accompanied by the duke
+list_1B,target,rrc_ambig,urc,accompanied,2,accompanied2,The children accompanied
+list_1B,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1B,prime,rrc,NA,recognized,1,recognized1,The man recognized by the spy
+list_1B,target,rrc_ambig,rrc,recognized,2,recognized2,The actor recognized
+list_1B,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1B,prime,rrc_ambig,NA,chased,1,chased1,The dog chased
+list_1B,target,rrc_ambig,rrc_ambig,chased,2,chased2,The monkey chased
+list_1B,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1B,prime,urc,NA,studied,1,studied1,The solider who was studied by the general
+list_1B,target,rrc_ambig,urc,studied,2,studied2,The writer studied
+list_1B,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1B,prime,urc,NA,betrayed,1,betrayed1,The politician who was betrayed by the party
+list_1B,target,rrc_ambig,urc,betrayed,2,betrayed2,The king betrayed
+list_1B,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1B,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1B,prime,rrc,NA,challenged,1,challenged1,The protestors challenged by the authority
+list_1B,target,rrc_ambig,rrc,challenged,2,challenged2,The scientist challenged
+list_1B,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1B,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1B,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1B,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1B,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1B,prime,rrc_ambig,NA,selected,1,selected1,The applicant selected
+list_1B,target,rrc_ambig,rrc_ambig,selected,2,selected2,The professor selected
+list_1B,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1B,prime,rrc,NA,congratulated,1,congratulated1,The captain congratulated by the team
+list_1B,target,rrc_ambig,rrc,congratulated,2,congratulated2,The actress congratulated
+list_1B,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1B,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1B,prime,rrc_ambig,NA,encouraged,1,encouraged1,The gymnast encouraged
+list_1B,target,rrc_ambig,rrc_ambig,encouraged,2,encouraged2,The musician encouraged
+list_1B,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1B,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1B,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1B,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1B,prime,urc,NA,identified,1,identified1,The thief who was identified by the victim
+list_1B,target,rrc_ambig,urc,identified,2,identified2,The warden identified
+list_1B,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1B,prime,prog_rrc,NA,admired,1,admired1,The singer being admired by the fans
+list_1B,target,rrc_ambig,prog_rrc,admired,2,admired2,The princess admired
+list_1B,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1B,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1B,prime,rrc_ambig,NA,approached,1,approached1,The student approached
+list_1B,target,rrc_ambig,rrc_ambig,approached,2,approached2,The clerk approached
+list_1B,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1B,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1B,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1B,prime,rrc_ambig,NA,introduced,1,introduced1,The speaker introduced
+list_1B,target,rrc_ambig,rrc_ambig,introduced,2,introduced2,The producer introduced
+list_1B,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1B,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1B,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1B,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1B,prime,rrc,NA,sketched,1,sketched1,The culprit sketched by the investigator
+list_1B,target,rrc_ambig,rrc,sketched,2,sketched2,The apprentice sketched
+list_1B,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1C,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1C,prime,prog_rrc,NA,recorded,1,recorded1,The priest being recorded by the mob
+list_1C,target,rrc_ambig,prog_rrc,recorded,2,recorded2,The management recorded
+list_1C,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1C,prime,rrc_ambig,NA,loved,1,loved1,The landlord loved
+list_1C,target,rrc_ambig,rrc_ambig,loved,2,loved2,The comedian loved
+list_1C,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1C,prime,rrc_ambig,NA,described,1,described1,The boy described
+list_1C,target,rrc_ambig,rrc_ambig,described,2,described2,The secretary described
+list_1C,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1C,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1C,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1C,prime,urc,NA,examined,1,examined1,The defendant who was examined by the lawyer
+list_1C,target,rrc_ambig,urc,examined,2,examined2,The engineer examined
+list_1C,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1C,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1C,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1C,prime,rrc_ambig,NA,envied,1,envied1,The officer envied
+list_1C,target,rrc_ambig,rrc_ambig,envied,2,envied2,The principal envied
+list_1C,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1C,prime,rrc_ambig,NA,captured,1,captured1,The policeman captured
+list_1C,target,rrc_ambig,rrc_ambig,captured,2,captured2,The witch captured
+list_1C,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1C,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1C,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1C,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1C,prime,rrc_ambig,NA,scratched,1,scratched1,The girl scratched
+list_1C,target,rrc_ambig,rrc_ambig,scratched,2,scratched2,The toddler scratched
+list_1C,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1C,prime,prog_rrc,NA,consoled,1,consoled1,The widow being consoled by the family
+list_1C,target,rrc_ambig,prog_rrc,consoled,2,consoled2,The teenager consoled
+list_1C,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1C,prime,urc,NA,attacked,1,attacked1,The troops who were attacked by the terrorists
+list_1C,target,rrc_ambig,urc,attacked,2,attacked2,The lion attacked
+list_1C,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1C,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1C,prime,rrc,NA,paid,1,paid1,The cashier paid by the customer
+list_1C,target,rrc_ambig,rrc,paid,2,paid2,The organization paid
+list_1C,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1C,prime,prog_rrc,NA,accompanied,1,accompanied1,The prince being accompanied by the duke
+list_1C,target,rrc_ambig,prog_rrc,accompanied,2,accompanied2,The children accompanied
+list_1C,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1C,prime,urc,NA,recognized,1,recognized1,The man who was recognized by the spy
+list_1C,target,rrc_ambig,urc,recognized,2,recognized2,The actor recognized
+list_1C,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1C,prime,rrc,NA,chased,1,chased1,The dog chased by the boy
+list_1C,target,rrc_ambig,rrc,chased,2,chased2,The monkey chased
+list_1C,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1C,prime,prog_rrc,NA,studied,1,studied1,The solider being studied by the general
+list_1C,target,rrc_ambig,prog_rrc,studied,2,studied2,The writer studied
+list_1C,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1C,prime,prog_rrc,NA,betrayed,1,betrayed1,The politician being betrayed by the party
+list_1C,target,rrc_ambig,prog_rrc,betrayed,2,betrayed2,The king betrayed
+list_1C,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1C,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1C,prime,urc,NA,challenged,1,challenged1,The protestors who were challenged by the authority
+list_1C,target,rrc_ambig,urc,challenged,2,challenged2,The scientist challenged
+list_1C,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1C,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1C,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1C,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1C,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1C,prime,rrc,NA,selected,1,selected1,The applicant selected by the company
+list_1C,target,rrc_ambig,rrc,selected,2,selected2,The professor selected
+list_1C,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1C,prime,urc,NA,congratulated,1,congratulated1,The captain who was congratulated by the team
+list_1C,target,rrc_ambig,urc,congratulated,2,congratulated2,The actress congratulated
+list_1C,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1C,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1C,prime,rrc,NA,encouraged,1,encouraged1,The gymnast encouraged by the coach
+list_1C,target,rrc_ambig,rrc,encouraged,2,encouraged2,The musician encouraged
+list_1C,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1C,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1C,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1C,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1C,prime,prog_rrc,NA,identified,1,identified1,The thief being identified by the victim
+list_1C,target,rrc_ambig,prog_rrc,identified,2,identified2,The warden identified
+list_1C,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1C,prime,rrc_ambig,NA,admired,1,admired1,The singer admired
+list_1C,target,rrc_ambig,rrc_ambig,admired,2,admired2,The princess admired
+list_1C,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1C,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1C,prime,rrc,NA,approached,1,approached1,The student approached by the teacher
+list_1C,target,rrc_ambig,rrc,approached,2,approached2,The clerk approached
+list_1C,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1C,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1C,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1C,prime,rrc,NA,introduced,1,introduced1,The speaker introduced by the chairman
+list_1C,target,rrc_ambig,rrc,introduced,2,introduced2,The producer introduced
+list_1C,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1C,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1C,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1C,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1C,prime,urc,NA,sketched,1,sketched1,The culprit who was sketched by the investigator
+list_1C,target,rrc_ambig,urc,sketched,2,sketched2,The apprentice sketched
+list_1C,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1D,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1D,prime,rrc_ambig,NA,recorded,1,recorded1,The priest recorded
+list_1D,target,rrc_ambig,rrc_ambig,recorded,2,recorded2,The management recorded
+list_1D,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1D,prime,rrc,NA,loved,1,loved1,The landlord loved by the tenants
+list_1D,target,rrc_ambig,rrc,loved,2,loved2,The comedian loved
+list_1D,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1D,prime,rrc,NA,described,1,described1,The boy described by the lady
+list_1D,target,rrc_ambig,rrc,described,2,described2,The secretary described
+list_1D,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1D,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1D,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1D,prime,prog_rrc,NA,examined,1,examined1,The defendant being examined by the lawyer
+list_1D,target,rrc_ambig,prog_rrc,examined,2,examined2,The engineer examined
+list_1D,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1D,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1D,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1D,prime,rrc,NA,envied,1,envied1,The officer envied by the assistant
+list_1D,target,rrc_ambig,rrc,envied,2,envied2,The principal envied
+list_1D,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1D,prime,rrc,NA,captured,1,captured1,The policeman captured by the kidnapper
+list_1D,target,rrc_ambig,rrc,captured,2,captured2,The witch captured
+list_1D,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1D,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1D,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1D,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1D,prime,rrc,NA,scratched,1,scratched1,The girl scratched by the cat
+list_1D,target,rrc_ambig,rrc,scratched,2,scratched2,The toddler scratched
+list_1D,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1D,prime,rrc_ambig,NA,consoled,1,consoled1,The widow consoled by the family
+list_1D,target,rrc_ambig,rrc_ambig,consoled,2,consoled2,The teenager consoled
+list_1D,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1D,prime,prog_rrc,NA,attacked,1,attacked1,The troops being attacked by the terrorists
+list_1D,target,rrc_ambig,prog_rrc,attacked,2,attacked2,The lion attacked
+list_1D,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1D,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1D,prime,urc,NA,paid,1,paid1,The cashier who was paid by the customer
+list_1D,target,rrc_ambig,urc,paid,2,paid2,The organization paid
+list_1D,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1D,prime,rrc_ambig,NA,accompanied,1,accompanied1,The prince accompanied
+list_1D,target,rrc_ambig,rrc_ambig,accompanied,2,accompanied2,The children accompanied
+list_1D,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1D,prime,prog_rrc,NA,recognized,1,recognized1,The man being recognized by the spy
+list_1D,target,rrc_ambig,prog_rrc,recognized,2,recognized2,The actor recognized
+list_1D,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1D,prime,urc,NA,chased,1,chased1,The dog who was chased by the boy
+list_1D,target,rrc_ambig,urc,chased,2,chased2,The monkey chased
+list_1D,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1D,prime,rrc_ambig,NA,studied,1,studied1,The solider studied
+list_1D,target,rrc_ambig,rrc_ambig,studied,2,studied2,The writer studied
+list_1D,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1D,prime,rrc_ambig,NA,betrayed,1,betrayed1,The politician betrayed
+list_1D,target,rrc_ambig,rrc_ambig,betrayed,2,betrayed2,The king betrayed
+list_1D,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1D,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1D,prime,prog_rrc,NA,challenged,1,challenged1,The protestors being challenged by the authority
+list_1D,target,rrc_ambig,prog_rrc,challenged,2,challenged2,The scientist challenged
+list_1D,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1D,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1D,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1D,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1D,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1D,prime,urc,NA,selected,1,selected1,The applicant who was selected by the company
+list_1D,target,rrc_ambig,urc,selected,2,selected2,The professor selected
+list_1D,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1D,prime,prog_rrc,NA,congratulated,1,congratulated1,The captain being congratulated by the team
+list_1D,target,rrc_ambig,prog_rrc,congratulated,2,congratulated2,The actress congratulated
+list_1D,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1D,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1D,prime,urc,NA,encouraged,1,encouraged1,The gymnast who was encouraged by the coach
+list_1D,target,rrc_ambig,urc,encouraged,2,encouraged2,The musician encouraged
+list_1D,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1D,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1D,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1D,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1D,prime,rrc_ambig,NA,identified,1,identified1,The thief identified
+list_1D,target,rrc_ambig,rrc_ambig,identified,2,identified2,The warden identified
+list_1D,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1D,prime,rrc,NA,admired,1,admired1,The singer admired by the fans
+list_1D,target,rrc_ambig,rrc,admired,2,admired2,The princess admired
+list_1D,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1D,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1D,prime,urc,NA,approached,1,approached1,The student who was approached by the teacher
+list_1D,target,rrc_ambig,urc,approached,2,approached2,The clerk approached
+list_1D,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1D,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1D,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1D,prime,urc,NA,introduced,1,introduced1,The speaker who was introduced by the chairman
+list_1D,target,rrc_ambig,urc,introduced,2,introduced2,The producer introduced
+list_1D,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1D,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1D,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1D,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1D,prime,prog_rrc,NA,sketched,1,sketched1,The culprit being sketched by the investigator
+list_1D,target,rrc_ambig,prog_rrc,sketched,2,sketched2,The apprentice sketched
+list_1D,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2A,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2A,prime,rrc,NA,recorded,2,recorded2,The management recorded by the employee
+list_2A,target,rrc_ambig,rrc,recorded,1,recorded1,The priest recorded
+list_2A,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2A,prime,urc,NA,loved,2,loved2,The comedian who was loved by the audience
+list_2A,target,rrc_ambig,urc,loved,1,loved1,The landlord loved
+list_2A,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2A,prime,urc,NA,described,2,described2,The secretary who was described by the visitor
+list_2A,target,rrc_ambig,urc,described,1,described1,The boy described
+list_2A,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2A,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2A,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2A,prime,rrc_ambig,NA,examined,2,examined2,The engineer examined
+list_2A,target,rrc_ambig,rrc_ambig,examined,1,examined1,The defendant examined
+list_2A,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2A,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2A,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2A,prime,urc,NA,envied,2,envied2,The principal who was envied by the administration
+list_2A,target,rrc_ambig,urc,envied,1,envied1,The officer envied
+list_2A,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2A,prime,urc,NA,captured,2,captured2,The witch who was captured by the peasant
+list_2A,target,rrc_ambig,urc,captured,1,captured1,The policeman captured
+list_2A,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2A,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2A,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2A,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2A,prime,urc,NA,scratched,2,scratched2,The toddler who was scratched by the table
+list_2A,target,rrc_ambig,urc,scratched,1,scratched1,The girl scratched
+list_2A,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2A,prime,rrc,NA,consoled,2,consoled2,The teenager consoled by the friend
+list_2A,target,rrc_ambig,rrc,consoled,1,consoled1,The widow consoled by the family
+list_2A,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2A,prime,rrc_ambig,NA,attacked,2,attacked2,The lion attacked
+list_2A,target,rrc_ambig,rrc_ambig,attacked,1,attacked1,The troops attacked
+list_2A,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2A,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2A,prime,prog_rrc,NA,paid,2,paid2,The organization being paid by the government
+list_2A,target,rrc_ambig,prog_rrc,paid,1,paid1,The cashier paid
+list_2A,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2A,prime,rrc,NA,accompanied,2,accompanied2,The children accompanied by the guardian
+list_2A,target,rrc_ambig,rrc,accompanied,1,accompanied1,The prince accompanied
+list_2A,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2A,prime,rrc_ambig,NA,recognized,2,recognized2,The actor recognized
+list_2A,target,rrc_ambig,rrc_ambig,recognized,1,recognized1,The man recognized
+list_2A,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2A,prime,prog_rrc,NA,chased,2,chased2,The monkey being chased by the hatter
+list_2A,target,rrc_ambig,prog_rrc,chased,1,chased1,The dog chased
+list_2A,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2A,prime,rrc,NA,studied,2,studied2,The writer studied by the scholar
+list_2A,target,rrc_ambig,rrc,studied,1,studied1,The solider studied
+list_2A,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2A,prime,rrc,NA,betrayed,2,betrayed2,The king betrayed by the genie
+list_2A,target,rrc_ambig,rrc,betrayed,1,betrayed1,The politician betrayed
+list_2A,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2A,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2A,prime,rrc_ambig,NA,challenged,2,challenged2,The scientist challenged
+list_2A,target,rrc_ambig,rrc_ambig,challenged,1,challenged1,The protestors challenged
+list_2A,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2A,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2A,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2A,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2A,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2A,prime,prog_rrc,NA,selected,2,selected2,The professor being selected by the university
+list_2A,target,rrc_ambig,prog_rrc,selected,1,selected1,The applicant selected
+list_2A,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2A,prime,rrc_ambig,NA,congratulated,2,congratulated2,The actress congratulated
+list_2A,target,rrc_ambig,rrc_ambig,congratulated,1,congratulated1,The captain congratulated
+list_2A,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2A,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2A,prime,prog_rrc,NA,encouraged,2,encouraged2,The musician being encouraged by the crowd
+list_2A,target,rrc_ambig,prog_rrc,encouraged,1,encouraged1,The gymnast encouraged
+list_2A,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2A,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2A,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2A,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2A,prime,rrc,NA,identified,2,identified2,The warden identified by the prisoner
+list_2A,target,rrc_ambig,rrc,identified,1,identified1,The thief identified
+list_2A,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2A,prime,urc,NA,admired,2,admired2,The princess who was admired by the magician
+list_2A,target,rrc_ambig,urc,admired,1,admired1,The singer admired
+list_2A,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2A,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2A,prime,prog_rrc,NA,approached,2,approached2,The clerk being approached by the manager
+list_2A,target,rrc_ambig,prog_rrc,approached,1,approached1,The student approached
+list_2A,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2A,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2A,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2A,prime,prog_rrc,NA,introduced,2,introduced2,The producer being introduced by the association
+list_2A,target,rrc_ambig,prog_rrc,introduced,1,introduced1,The speaker introduced
+list_2A,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2A,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2A,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2A,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2A,prime,rrc_ambig,NA,sketched,2,sketched2,The apprentice sketched
+list_2A,target,rrc_ambig,rrc_ambig,sketched,1,sketched1,The culprit sketched
+list_2A,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2B,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2B,prime,urc,NA,recorded,2,recorded2,The management who was recorded by the employee
+list_2B,target,rrc_ambig,urc,recorded,1,recorded1,The priest recorded
+list_2B,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2B,prime,prog_rrc,NA,loved,2,loved2,The comedian being loved by the audience
+list_2B,target,rrc_ambig,prog_rrc,loved,1,loved1,The landlord loved
+list_2B,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2B,prime,prog_rrc,NA,described,2,described2,The secretary being described by the visitor
+list_2B,target,rrc_ambig,prog_rrc,described,1,described1,The boy described
+list_2B,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2B,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2B,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2B,prime,rrc,NA,examined,2,examined2,The engineer examined by the licensor
+list_2B,target,rrc_ambig,rrc,examined,1,examined1,The defendant examined
+list_2B,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2B,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2B,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2B,prime,prog_rrc,NA,envied,2,envied2,The principal being envied by the administration
+list_2B,target,rrc_ambig,prog_rrc,envied,1,envied1,The officer envied
+list_2B,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2B,prime,prog_rrc,NA,captured,2,captured2,The witch being captured by the peasant
+list_2B,target,rrc_ambig,prog_rrc,captured,1,captured1,The policeman captured
+list_2B,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2B,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2B,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2B,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2B,prime,prog_rrc,NA,scratched,2,scratched2,The toddler being scratched by the table
+list_2B,target,rrc_ambig,prog_rrc,scratched,1,scratched1,The girl scratched
+list_2B,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2B,prime,urc,NA,consoled,2,consoled2,The teenager who was consoled by the friend
+list_2B,target,rrc_ambig,urc,consoled,1,consoled1,The widow consoled by the family
+list_2B,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2B,prime,rrc,NA,attacked,2,attacked2,The lion attacked by the hunter
+list_2B,target,rrc_ambig,rrc,attacked,1,attacked1,The troops attacked
+list_2B,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2B,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2B,prime,rrc_ambig,NA,paid,2,paid2,The organization paid
+list_2B,target,rrc_ambig,rrc_ambig,paid,1,paid1,The cashier paid
+list_2B,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2B,prime,urc,NA,accompanied,2,accompanied2,The children who were accompanied by the guardian
+list_2B,target,rrc_ambig,urc,accompanied,1,accompanied1,The prince accompanied
+list_2B,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2B,prime,rrc,NA,recognized,2,recognized2,The actor recognized by the reporter
+list_2B,target,rrc_ambig,rrc,recognized,1,recognized1,The man recognized
+list_2B,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2B,prime,rrc_ambig,NA,chased,2,chased2,The monkey chased
+list_2B,target,rrc_ambig,rrc_ambig,chased,1,chased1,The dog chased
+list_2B,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2B,prime,urc,NA,studied,2,studied2,The writer who was studied by the scholar
+list_2B,target,rrc_ambig,urc,studied,1,studied1,The solider studied
+list_2B,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2B,prime,urc,NA,betrayed,2,betrayed2,The king who was betrayed by the genie
+list_2B,target,rrc_ambig,urc,betrayed,1,betrayed1,The politician betrayed
+list_2B,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2B,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2B,prime,rrc,NA,challenged,2,challenged2,The scientist challenged by the journalist
+list_2B,target,rrc_ambig,rrc,challenged,1,challenged1,The protestors challenged
+list_2B,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2B,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2B,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2B,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2B,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2B,prime,rrc_ambig,NA,selected,2,selected2,The professor selected
+list_2B,target,rrc_ambig,rrc_ambig,selected,1,selected1,The applicant selected
+list_2B,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2B,prime,rrc,NA,congratulated,2,congratulated2,The actress congratulated by the director
+list_2B,target,rrc_ambig,rrc,congratulated,1,congratulated1,The captain congratulated
+list_2B,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2B,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2B,prime,rrc_ambig,NA,encouraged,2,encouraged2,The musician encouraged
+list_2B,target,rrc_ambig,rrc_ambig,encouraged,1,encouraged1,The gymnast encouraged
+list_2B,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2B,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2B,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2B,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2B,prime,urc,NA,identified,2,identified2,The warden who was identified by the prisoner
+list_2B,target,rrc_ambig,urc,identified,1,identified1,The thief identified
+list_2B,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2B,prime,prog_rrc,NA,admired,2,admired2,The princess being admired by the magician
+list_2B,target,rrc_ambig,prog_rrc,admired,1,admired1,The singer admired
+list_2B,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2B,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2B,prime,rrc_ambig,NA,approached,2,approached2,The clerk approached
+list_2B,target,rrc_ambig,rrc_ambig,approached,1,approached1,The student approached
+list_2B,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2B,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2B,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2B,prime,rrc_ambig,NA,introduced,2,introduced2,The producer introduced
+list_2B,target,rrc_ambig,rrc_ambig,introduced,1,introduced1,The speaker introduced
+list_2B,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2B,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2B,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2B,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2B,prime,rrc,NA,sketched,2,sketched2,The apprentice sketched by the artist
+list_2B,target,rrc_ambig,rrc,sketched,1,sketched1,The culprit sketched
+list_2B,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2C,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2C,prime,prog_rrc,NA,recorded,2,recorded2,The management being recorded by the employee
+list_2C,target,rrc_ambig,prog_rrc,recorded,1,recorded1,The priest recorded
+list_2C,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2C,prime,rrc_ambig,NA,loved,2,loved2,The comedian loved
+list_2C,target,rrc_ambig,rrc_ambig,loved,1,loved1,The landlord loved
+list_2C,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2C,prime,rrc_ambig,NA,described,2,described2,The secretary described
+list_2C,target,rrc_ambig,rrc_ambig,described,1,described1,The boy described
+list_2C,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2C,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2C,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2C,prime,urc,NA,examined,2,examined2,The engineer who was examined by the licensor
+list_2C,target,rrc_ambig,urc,examined,1,examined1,The defendant examined
+list_2C,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2C,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2C,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2C,prime,rrc_ambig,NA,envied,2,envied2,The principal envied
+list_2C,target,rrc_ambig,rrc_ambig,envied,1,envied1,The officer envied
+list_2C,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2C,prime,rrc_ambig,NA,captured,2,captured2,The witch captured
+list_2C,target,rrc_ambig,rrc_ambig,captured,1,captured1,The policeman captured
+list_2C,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2C,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2C,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2C,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2C,prime,rrc_ambig,NA,scratched,2,scratched2,The toddler scratched
+list_2C,target,rrc_ambig,rrc_ambig,scratched,1,scratched1,The girl scratched
+list_2C,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2C,prime,prog_rrc,NA,consoled,2,consoled2,The teenager being consoled by the friend
+list_2C,target,rrc_ambig,prog_rrc,consoled,1,consoled1,The widow consoled by the family
+list_2C,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2C,prime,urc,NA,attacked,2,attacked2,The lion which was attacked by the hunter
+list_2C,target,rrc_ambig,urc,attacked,1,attacked1,The troops attacked
+list_2C,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2C,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2C,prime,rrc,NA,paid,2,paid2,The organization paid by the government
+list_2C,target,rrc_ambig,rrc,paid,1,paid1,The cashier paid
+list_2C,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2C,prime,prog_rrc,NA,accompanied,2,accompanied2,The children being accompanied by the guardian
+list_2C,target,rrc_ambig,prog_rrc,accompanied,1,accompanied1,The prince accompanied
+list_2C,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2C,prime,urc,NA,recognized,2,recognized2,The actor who was recognized by the reporter
+list_2C,target,rrc_ambig,urc,recognized,1,recognized1,The man recognized
+list_2C,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2C,prime,rrc,NA,chased,2,chased2,The monkey chased by the hatter
+list_2C,target,rrc_ambig,rrc,chased,1,chased1,The dog chased
+list_2C,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2C,prime,prog_rrc,NA,studied,2,studied2,The writer being studied by the scholar
+list_2C,target,rrc_ambig,prog_rrc,studied,1,studied1,The solider studied
+list_2C,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2C,prime,prog_rrc,NA,betrayed,2,betrayed2,The king being betrayed by the genie
+list_2C,target,rrc_ambig,prog_rrc,betrayed,1,betrayed1,The politician betrayed
+list_2C,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2C,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2C,prime,urc,NA,challenged,2,challenged2,The scientist who was challenged by the journalist
+list_2C,target,rrc_ambig,urc,challenged,1,challenged1,The protestors challenged
+list_2C,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2C,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2C,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2C,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2C,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2C,prime,rrc,NA,selected,2,selected2,The professor selected by the university
+list_2C,target,rrc_ambig,rrc,selected,1,selected1,The applicant selected
+list_2C,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2C,prime,urc,NA,congratulated,2,congratulated2,The actress who was congratulated by the director
+list_2C,target,rrc_ambig,urc,congratulated,1,congratulated1,The captain congratulated
+list_2C,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2C,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2C,prime,rrc,NA,encouraged,2,encouraged2,The musician encouraged by the crowd
+list_2C,target,rrc_ambig,rrc,encouraged,1,encouraged1,The gymnast encouraged
+list_2C,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2C,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2C,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2C,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2C,prime,prog_rrc,NA,identified,2,identified2,The warden being identified by the prisoner
+list_2C,target,rrc_ambig,prog_rrc,identified,1,identified1,The thief identified
+list_2C,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2C,prime,rrc_ambig,NA,admired,2,admired2,The princess admired
+list_2C,target,rrc_ambig,rrc_ambig,admired,1,admired1,The singer admired
+list_2C,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2C,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2C,prime,rrc,NA,approached,2,approached2,The clerk approached by the manager
+list_2C,target,rrc_ambig,rrc,approached,1,approached1,The student approached
+list_2C,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2C,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2C,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2C,prime,rrc,NA,introduced,2,introduced2,The producer introduced by the association
+list_2C,target,rrc_ambig,rrc,introduced,1,introduced1,The speaker introduced
+list_2C,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2C,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2C,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2C,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2C,prime,urc,NA,sketched,2,sketched2,The apprentice who was sketched by the artist
+list_2C,target,rrc_ambig,urc,sketched,1,sketched1,The culprit sketched
+list_2C,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2D,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2D,prime,rrc_ambig,NA,recorded,2,recorded2,The management recorded
+list_2D,target,rrc_ambig,rrc_ambig,recorded,1,recorded1,The priest recorded
+list_2D,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2D,prime,rrc,NA,loved,2,loved2,The comedian loved by the audience
+list_2D,target,rrc_ambig,rrc,loved,1,loved1,The landlord loved
+list_2D,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2D,prime,rrc,NA,described,2,described2,The secretary described by the visitor
+list_2D,target,rrc_ambig,rrc,described,1,described1,The boy described
+list_2D,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2D,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2D,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2D,prime,prog_rrc,NA,examined,2,examined2,The engineer being examined by the licensor
+list_2D,target,rrc_ambig,prog_rrc,examined,1,examined1,The defendant examined
+list_2D,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2D,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2D,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2D,prime,rrc,NA,envied,2,envied2,The principal envied by the administration
+list_2D,target,rrc_ambig,rrc,envied,1,envied1,The officer envied
+list_2D,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2D,prime,rrc,NA,captured,2,captured2,The witch captured by the peasant
+list_2D,target,rrc_ambig,rrc,captured,1,captured1,The policeman captured
+list_2D,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2D,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2D,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2D,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2D,prime,rrc,NA,scratched,2,scratched2,The toddler scratched by the table
+list_2D,target,rrc_ambig,rrc,scratched,1,scratched1,The girl scratched
+list_2D,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2D,prime,rrc_ambig,NA,consoled,2,consoled2,The teenager consoled
+list_2D,target,rrc_ambig,rrc_ambig,consoled,1,consoled1,The widow consoled by the family
+list_2D,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2D,prime,prog_rrc,NA,attacked,2,attacked2,The lion being attacked by the hunter
+list_2D,target,rrc_ambig,prog_rrc,attacked,1,attacked1,The troops attacked
+list_2D,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2D,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2D,prime,urc,NA,paid,2,paid2,The organization which was paid by the government
+list_2D,target,rrc_ambig,urc,paid,1,paid1,The cashier paid
+list_2D,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2D,prime,rrc_ambig,NA,accompanied,2,accompanied2,The children accompanied
+list_2D,target,rrc_ambig,rrc_ambig,accompanied,1,accompanied1,The prince accompanied
+list_2D,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2D,prime,prog_rrc,NA,recognized,2,recognized2,The actor being recognized by the reporter
+list_2D,target,rrc_ambig,prog_rrc,recognized,1,recognized1,The man recognized
+list_2D,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2D,prime,urc,NA,chased,2,chased2,The monkey which was chased by the hatter
+list_2D,target,rrc_ambig,urc,chased,1,chased1,The dog chased
+list_2D,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2D,prime,rrc_ambig,NA,studied,2,studied2,The writer studied
+list_2D,target,rrc_ambig,rrc_ambig,studied,1,studied1,The solider studied
+list_2D,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2D,prime,rrc_ambig,NA,betrayed,2,betrayed2,The king betrayed
+list_2D,target,rrc_ambig,rrc_ambig,betrayed,1,betrayed1,The politician betrayed
+list_2D,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2D,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2D,prime,prog_rrc,NA,challenged,2,challenged2,The scientist being challenged by the journalist
+list_2D,target,rrc_ambig,prog_rrc,challenged,1,challenged1,The protestors challenged
+list_2D,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2D,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2D,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2D,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2D,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2D,prime,urc,NA,selected,2,selected2,The professor who was selected by the university
+list_2D,target,rrc_ambig,urc,selected,1,selected1,The applicant selected
+list_2D,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2D,prime,prog_rrc,NA,congratulated,2,congratulated2,The actress being congratulated by the director
+list_2D,target,rrc_ambig,prog_rrc,congratulated,1,congratulated1,The captain congratulated
+list_2D,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2D,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2D,prime,urc,NA,encouraged,2,encouraged2,The musician who was encouraged by the crowd
+list_2D,target,rrc_ambig,urc,encouraged,1,encouraged1,The gymnast encouraged
+list_2D,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2D,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2D,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2D,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2D,prime,rrc_ambig,NA,identified,2,identified2,The warden identified
+list_2D,target,rrc_ambig,rrc_ambig,identified,1,identified1,The thief identified
+list_2D,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2D,prime,rrc,NA,admired,2,admired2,The princess admired by the magician
+list_2D,target,rrc_ambig,rrc,admired,1,admired1,The singer admired
+list_2D,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2D,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2D,prime,urc,NA,approached,2,approached2,The clerk who was approached by the manager
+list_2D,target,rrc_ambig,urc,approached,1,approached1,The student approached
+list_2D,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2D,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2D,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2D,prime,urc,NA,introduced,2,introduced2,The producer who was introduced by the association
+list_2D,target,rrc_ambig,urc,introduced,1,introduced1,The speaker introduced
+list_2D,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2D,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2D,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2D,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2D,prime,prog_rrc,NA,sketched,2,sketched2,The apprentice being sketched by the artist
+list_2D,target,rrc_ambig,prog_rrc,sketched,1,sketched1,The culprit sketched
+list_2D,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1A_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1A_rev,prime,rrc_ambig,NA,sketched,1,sketched1,The culprit sketched
+list_1A_rev,target,rrc_ambig,rrc_ambig,sketched,2,sketched2,The apprentice sketched
+list_1A_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1A_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1A_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1A_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1A_rev,prime,prog_rrc,NA,introduced,1,introduced1,The speaker being introduced by the chairman
+list_1A_rev,target,rrc_ambig,prog_rrc,introduced,2,introduced2,The producer introduced
+list_1A_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1A_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1A_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1A_rev,prime,prog_rrc,NA,approached,1,approached1,The student being approached by the teacher
+list_1A_rev,target,rrc_ambig,prog_rrc,approached,2,approached2,The clerk approached
+list_1A_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1A_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1A_rev,prime,urc,NA,admired,1,admired1,The singer who was admired by the fans
+list_1A_rev,target,rrc_ambig,urc,admired,2,admired2,The princess admired
+list_1A_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1A_rev,prime,rrc,NA,identified,1,identified1,The thief identified by the victim
+list_1A_rev,target,rrc_ambig,rrc,identified,2,identified2,The warden identified
+list_1A_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1A_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1A_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1A_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1A_rev,prime,prog_rrc,NA,encouraged,1,encouraged1,The gymnast being encouraged by the coach
+list_1A_rev,target,rrc_ambig,prog_rrc,encouraged,2,encouraged2,The musician encouraged
+list_1A_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1A_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1A_rev,prime,rrc_ambig,NA,congratulated,1,congratulated1,The captain congratulated
+list_1A_rev,target,rrc_ambig,rrc_ambig,congratulated,2,congratulated2,The actress congratulated
+list_1A_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1A_rev,prime,prog_rrc,NA,selected,1,selected1,The applicant being selected by the company
+list_1A_rev,target,rrc_ambig,prog_rrc,selected,2,selected2,The professor selected
+list_1A_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1A_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1A_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1A_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1A_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1A_rev,prime,rrc_ambig,NA,challenged,1,challenged1,The protestors challenged
+list_1A_rev,target,rrc_ambig,rrc_ambig,challenged,2,challenged2,The scientist challenged
+list_1A_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1A_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1A_rev,prime,rrc,NA,betrayed,1,betrayed1,The politician betrayed by the party
+list_1A_rev,target,rrc_ambig,rrc,betrayed,2,betrayed2,The king betrayed
+list_1A_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1A_rev,prime,rrc,NA,studied,1,studied1,The solider studied by the general
+list_1A_rev,target,rrc_ambig,rrc,studied,2,studied2,The writer studied
+list_1A_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1A_rev,prime,prog_rrc,NA,chased,1,chased1,The dog being chased by the boy
+list_1A_rev,target,rrc_ambig,prog_rrc,chased,2,chased2,The monkey chased
+list_1A_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1A_rev,prime,rrc_ambig,NA,recognized,1,recognized1,The man recognized
+list_1A_rev,target,rrc_ambig,rrc_ambig,recognized,2,recognized2,The actor recognized
+list_1A_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1A_rev,prime,rrc,NA,accompanied,1,accompanied1,The prince accompanied by the duke
+list_1A_rev,target,rrc_ambig,rrc,accompanied,2,accompanied2,The children accompanied
+list_1A_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1A_rev,prime,prog_rrc,NA,paid,1,paid1,The cashier being paid by the customer
+list_1A_rev,target,rrc_ambig,prog_rrc,paid,2,paid2,The organization paid
+list_1A_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1A_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1A_rev,prime,rrc_ambig,NA,attacked,1,attacked1,The troops attacked
+list_1A_rev,target,rrc_ambig,rrc_ambig,attacked,2,attacked2,The lion attacked
+list_1A_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1A_rev,prime,rrc,NA,consoled,1,consoled1,The widow consoled by the family
+list_1A_rev,target,rrc_ambig,rrc,consoled,2,consoled2,The teenager consoled
+list_1A_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1A_rev,prime,urc,NA,scratched,1,scratched1,The girl who was scratched by the cat
+list_1A_rev,target,rrc_ambig,urc,scratched,2,scratched2,The toddler scratched
+list_1A_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1A_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1A_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1A_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1A_rev,prime,urc,NA,captured,1,captured1,The policeman who was captured by the kidnapper
+list_1A_rev,target,rrc_ambig,urc,captured,2,captured2,The witch captured
+list_1A_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1A_rev,prime,urc,NA,envied,1,envied1,The officer who was envied by the assistant
+list_1A_rev,target,rrc_ambig,urc,envied,2,envied2,The principal envied
+list_1A_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1A_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1A_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1A_rev,prime,rrc_ambig,NA,examined,1,examined1,The defendant examined
+list_1A_rev,target,rrc_ambig,rrc_ambig,examined,2,examined2,The engineer examined
+list_1A_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1A_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1A_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1A_rev,prime,urc,NA,described,1,described1,The boy who was described by the lady
+list_1A_rev,target,rrc_ambig,urc,described,2,described2,The secretary described
+list_1A_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1A_rev,prime,urc,NA,loved,1,loved1,The landlord who was loved by the tenants
+list_1A_rev,target,rrc_ambig,urc,loved,2,loved2,The comedian loved
+list_1A_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1A_rev,prime,rrc,NA,recorded,1,recorded1,The priest recorded by the mob
+list_1A_rev,target,rrc_ambig,rrc,recorded,2,recorded2,The management recorded
+list_1A_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1B_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1B_rev,prime,rrc,NA,sketched,1,sketched1,The culprit sketched by the investigator
+list_1B_rev,target,rrc_ambig,rrc,sketched,2,sketched2,The apprentice sketched
+list_1B_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1B_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1B_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1B_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1B_rev,prime,rrc_ambig,NA,introduced,1,introduced1,The speaker introduced
+list_1B_rev,target,rrc_ambig,rrc_ambig,introduced,2,introduced2,The producer introduced
+list_1B_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1B_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1B_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1B_rev,prime,rrc_ambig,NA,approached,1,approached1,The student approached
+list_1B_rev,target,rrc_ambig,rrc_ambig,approached,2,approached2,The clerk approached
+list_1B_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1B_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1B_rev,prime,prog_rrc,NA,admired,1,admired1,The singer being admired by the fans
+list_1B_rev,target,rrc_ambig,prog_rrc,admired,2,admired2,The princess admired
+list_1B_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1B_rev,prime,urc,NA,identified,1,identified1,The thief who was identified by the victim
+list_1B_rev,target,rrc_ambig,urc,identified,2,identified2,The warden identified
+list_1B_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1B_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1B_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1B_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1B_rev,prime,rrc_ambig,NA,encouraged,1,encouraged1,The gymnast encouraged
+list_1B_rev,target,rrc_ambig,rrc_ambig,encouraged,2,encouraged2,The musician encouraged
+list_1B_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1B_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1B_rev,prime,rrc,NA,congratulated,1,congratulated1,The captain congratulated by the team
+list_1B_rev,target,rrc_ambig,rrc,congratulated,2,congratulated2,The actress congratulated
+list_1B_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1B_rev,prime,rrc_ambig,NA,selected,1,selected1,The applicant selected
+list_1B_rev,target,rrc_ambig,rrc_ambig,selected,2,selected2,The professor selected
+list_1B_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1B_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1B_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1B_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1B_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1B_rev,prime,rrc,NA,challenged,1,challenged1,The protestors challenged by the authority
+list_1B_rev,target,rrc_ambig,rrc,challenged,2,challenged2,The scientist challenged
+list_1B_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1B_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1B_rev,prime,urc,NA,betrayed,1,betrayed1,The politician who was betrayed by the party
+list_1B_rev,target,rrc_ambig,urc,betrayed,2,betrayed2,The king betrayed
+list_1B_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1B_rev,prime,urc,NA,studied,1,studied1,The solider who was studied by the general
+list_1B_rev,target,rrc_ambig,urc,studied,2,studied2,The writer studied
+list_1B_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1B_rev,prime,rrc_ambig,NA,chased,1,chased1,The dog chased
+list_1B_rev,target,rrc_ambig,rrc_ambig,chased,2,chased2,The monkey chased
+list_1B_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1B_rev,prime,rrc,NA,recognized,1,recognized1,The man recognized by the spy
+list_1B_rev,target,rrc_ambig,rrc,recognized,2,recognized2,The actor recognized
+list_1B_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1B_rev,prime,urc,NA,accompanied,1,accompanied1,The prince who was accompanied by the duke
+list_1B_rev,target,rrc_ambig,urc,accompanied,2,accompanied2,The children accompanied
+list_1B_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1B_rev,prime,rrc_ambig,NA,paid,1,paid1,The cashier paid
+list_1B_rev,target,rrc_ambig,rrc_ambig,paid,2,paid2,The organization paid
+list_1B_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1B_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1B_rev,prime,rrc,NA,attacked,1,attacked1,The troops attacked by the terrorists
+list_1B_rev,target,rrc_ambig,rrc,attacked,2,attacked2,The lion attacked
+list_1B_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1B_rev,prime,urc,NA,consoled,1,consoled1,The widow who was consoled by the family
+list_1B_rev,target,rrc_ambig,urc,consoled,2,consoled2,The teenager consoled
+list_1B_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1B_rev,prime,prog_rrc,NA,scratched,1,scratched1,The girl being scratched by the cat
+list_1B_rev,target,rrc_ambig,prog_rrc,scratched,2,scratched2,The toddler scratched
+list_1B_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1B_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1B_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1B_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1B_rev,prime,prog_rrc,NA,captured,1,captured1,The policeman being captured by the kidnapper
+list_1B_rev,target,rrc_ambig,prog_rrc,captured,2,captured2,The witch captured
+list_1B_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1B_rev,prime,prog_rrc,NA,envied,1,envied1,The officer being envied by the assistant
+list_1B_rev,target,rrc_ambig,prog_rrc,envied,2,envied2,The principal envied
+list_1B_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1B_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1B_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1B_rev,prime,rrc,NA,examined,1,examined1,The defendant examined by the lawyer
+list_1B_rev,target,rrc_ambig,rrc,examined,2,examined2,The engineer examined
+list_1B_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1B_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1B_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1B_rev,prime,prog_rrc,NA,described,1,described1,The boy being described by the lady
+list_1B_rev,target,rrc_ambig,prog_rrc,described,2,described2,The secretary described
+list_1B_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1B_rev,prime,prog_rrc,NA,loved,1,loved1,The landlord being loved by the tenants
+list_1B_rev,target,rrc_ambig,prog_rrc,loved,2,loved2,The comedian loved
+list_1B_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1B_rev,prime,urc,NA,recorded,1,recorded1,The priest who was recorded by the mob
+list_1B_rev,target,rrc_ambig,urc,recorded,2,recorded2,The management recorded
+list_1B_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1C_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1C_rev,prime,urc,NA,sketched,1,sketched1,The culprit who was sketched by the investigator
+list_1C_rev,target,rrc_ambig,urc,sketched,2,sketched2,The apprentice sketched
+list_1C_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1C_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1C_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1C_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1C_rev,prime,rrc,NA,introduced,1,introduced1,The speaker introduced by the chairman
+list_1C_rev,target,rrc_ambig,rrc,introduced,2,introduced2,The producer introduced
+list_1C_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1C_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1C_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1C_rev,prime,rrc,NA,approached,1,approached1,The student approached by the teacher
+list_1C_rev,target,rrc_ambig,rrc,approached,2,approached2,The clerk approached
+list_1C_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1C_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1C_rev,prime,rrc_ambig,NA,admired,1,admired1,The singer admired
+list_1C_rev,target,rrc_ambig,rrc_ambig,admired,2,admired2,The princess admired
+list_1C_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1C_rev,prime,prog_rrc,NA,identified,1,identified1,The thief being identified by the victim
+list_1C_rev,target,rrc_ambig,prog_rrc,identified,2,identified2,The warden identified
+list_1C_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1C_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1C_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1C_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1C_rev,prime,rrc,NA,encouraged,1,encouraged1,The gymnast encouraged by the coach
+list_1C_rev,target,rrc_ambig,rrc,encouraged,2,encouraged2,The musician encouraged
+list_1C_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1C_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1C_rev,prime,urc,NA,congratulated,1,congratulated1,The captain who was congratulated by the team
+list_1C_rev,target,rrc_ambig,urc,congratulated,2,congratulated2,The actress congratulated
+list_1C_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1C_rev,prime,rrc,NA,selected,1,selected1,The applicant selected by the company
+list_1C_rev,target,rrc_ambig,rrc,selected,2,selected2,The professor selected
+list_1C_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1C_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1C_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1C_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1C_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1C_rev,prime,urc,NA,challenged,1,challenged1,The protestors who were challenged by the authority
+list_1C_rev,target,rrc_ambig,urc,challenged,2,challenged2,The scientist challenged
+list_1C_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1C_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1C_rev,prime,prog_rrc,NA,betrayed,1,betrayed1,The politician being betrayed by the party
+list_1C_rev,target,rrc_ambig,prog_rrc,betrayed,2,betrayed2,The king betrayed
+list_1C_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1C_rev,prime,prog_rrc,NA,studied,1,studied1,The solider being studied by the general
+list_1C_rev,target,rrc_ambig,prog_rrc,studied,2,studied2,The writer studied
+list_1C_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1C_rev,prime,rrc,NA,chased,1,chased1,The dog chased by the boy
+list_1C_rev,target,rrc_ambig,rrc,chased,2,chased2,The monkey chased
+list_1C_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1C_rev,prime,urc,NA,recognized,1,recognized1,The man who was recognized by the spy
+list_1C_rev,target,rrc_ambig,urc,recognized,2,recognized2,The actor recognized
+list_1C_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1C_rev,prime,prog_rrc,NA,accompanied,1,accompanied1,The prince being accompanied by the duke
+list_1C_rev,target,rrc_ambig,prog_rrc,accompanied,2,accompanied2,The children accompanied
+list_1C_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1C_rev,prime,rrc,NA,paid,1,paid1,The cashier paid by the customer
+list_1C_rev,target,rrc_ambig,rrc,paid,2,paid2,The organization paid
+list_1C_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1C_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1C_rev,prime,urc,NA,attacked,1,attacked1,The troops who were attacked by the terrorists
+list_1C_rev,target,rrc_ambig,urc,attacked,2,attacked2,The lion attacked
+list_1C_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1C_rev,prime,prog_rrc,NA,consoled,1,consoled1,The widow being consoled by the family
+list_1C_rev,target,rrc_ambig,prog_rrc,consoled,2,consoled2,The teenager consoled
+list_1C_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1C_rev,prime,rrc_ambig,NA,scratched,1,scratched1,The girl scratched
+list_1C_rev,target,rrc_ambig,rrc_ambig,scratched,2,scratched2,The toddler scratched
+list_1C_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1C_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1C_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1C_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1C_rev,prime,rrc_ambig,NA,captured,1,captured1,The policeman captured
+list_1C_rev,target,rrc_ambig,rrc_ambig,captured,2,captured2,The witch captured
+list_1C_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1C_rev,prime,rrc_ambig,NA,envied,1,envied1,The officer envied
+list_1C_rev,target,rrc_ambig,rrc_ambig,envied,2,envied2,The principal envied
+list_1C_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1C_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1C_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1C_rev,prime,urc,NA,examined,1,examined1,The defendant who was examined by the lawyer
+list_1C_rev,target,rrc_ambig,urc,examined,2,examined2,The engineer examined
+list_1C_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1C_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1C_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1C_rev,prime,rrc_ambig,NA,described,1,described1,The boy described
+list_1C_rev,target,rrc_ambig,rrc_ambig,described,2,described2,The secretary described
+list_1C_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1C_rev,prime,rrc_ambig,NA,loved,1,loved1,The landlord loved
+list_1C_rev,target,rrc_ambig,rrc_ambig,loved,2,loved2,The comedian loved
+list_1C_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1C_rev,prime,prog_rrc,NA,recorded,1,recorded1,The priest being recorded by the mob
+list_1C_rev,target,rrc_ambig,prog_rrc,recorded,2,recorded2,The management recorded
+list_1C_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_1D_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_1D_rev,prime,prog_rrc,NA,sketched,1,sketched1,The culprit being sketched by the investigator
+list_1D_rev,target,rrc_ambig,prog_rrc,sketched,2,sketched2,The apprentice sketched
+list_1D_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_1D_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_1D_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_1D_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_1D_rev,prime,urc,NA,introduced,1,introduced1,The speaker who was introduced by the chairman
+list_1D_rev,target,rrc_ambig,urc,introduced,2,introduced2,The producer introduced
+list_1D_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_1D_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_1D_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_1D_rev,prime,urc,NA,approached,1,approached1,The student who was approached by the teacher
+list_1D_rev,target,rrc_ambig,urc,approached,2,approached2,The clerk approached
+list_1D_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_1D_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_1D_rev,prime,rrc,NA,admired,1,admired1,The singer admired by the fans
+list_1D_rev,target,rrc_ambig,rrc,admired,2,admired2,The princess admired
+list_1D_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_1D_rev,prime,rrc_ambig,NA,identified,1,identified1,The thief identified
+list_1D_rev,target,rrc_ambig,rrc_ambig,identified,2,identified2,The warden identified
+list_1D_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_1D_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_1D_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_1D_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_1D_rev,prime,urc,NA,encouraged,1,encouraged1,The gymnast who was encouraged by the coach
+list_1D_rev,target,rrc_ambig,urc,encouraged,2,encouraged2,The musician encouraged
+list_1D_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_1D_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_1D_rev,prime,prog_rrc,NA,congratulated,1,congratulated1,The captain being congratulated by the team
+list_1D_rev,target,rrc_ambig,prog_rrc,congratulated,2,congratulated2,The actress congratulated
+list_1D_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_1D_rev,prime,urc,NA,selected,1,selected1,The applicant who was selected by the company
+list_1D_rev,target,rrc_ambig,urc,selected,2,selected2,The professor selected
+list_1D_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_1D_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_1D_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_1D_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_1D_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_1D_rev,prime,prog_rrc,NA,challenged,1,challenged1,The protestors being challenged by the authority
+list_1D_rev,target,rrc_ambig,prog_rrc,challenged,2,challenged2,The scientist challenged
+list_1D_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_1D_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_1D_rev,prime,rrc_ambig,NA,betrayed,1,betrayed1,The politician betrayed
+list_1D_rev,target,rrc_ambig,rrc_ambig,betrayed,2,betrayed2,The king betrayed
+list_1D_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_1D_rev,prime,rrc_ambig,NA,studied,1,studied1,The solider studied
+list_1D_rev,target,rrc_ambig,rrc_ambig,studied,2,studied2,The writer studied
+list_1D_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_1D_rev,prime,urc,NA,chased,1,chased1,The dog who was chased by the boy
+list_1D_rev,target,rrc_ambig,urc,chased,2,chased2,The monkey chased
+list_1D_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_1D_rev,prime,prog_rrc,NA,recognized,1,recognized1,The man being recognized by the spy
+list_1D_rev,target,rrc_ambig,prog_rrc,recognized,2,recognized2,The actor recognized
+list_1D_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_1D_rev,prime,rrc_ambig,NA,accompanied,1,accompanied1,The prince accompanied
+list_1D_rev,target,rrc_ambig,rrc_ambig,accompanied,2,accompanied2,The children accompanied
+list_1D_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_1D_rev,prime,urc,NA,paid,1,paid1,The cashier who was paid by the customer
+list_1D_rev,target,rrc_ambig,urc,paid,2,paid2,The organization paid
+list_1D_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_1D_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_1D_rev,prime,prog_rrc,NA,attacked,1,attacked1,The troops being attacked by the terrorists
+list_1D_rev,target,rrc_ambig,prog_rrc,attacked,2,attacked2,The lion attacked
+list_1D_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_1D_rev,prime,rrc_ambig,NA,consoled,1,consoled1,The widow consoled by the family
+list_1D_rev,target,rrc_ambig,rrc_ambig,consoled,2,consoled2,The teenager consoled
+list_1D_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_1D_rev,prime,rrc,NA,scratched,1,scratched1,The girl scratched by the cat
+list_1D_rev,target,rrc_ambig,rrc,scratched,2,scratched2,The toddler scratched
+list_1D_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_1D_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_1D_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_1D_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_1D_rev,prime,rrc,NA,captured,1,captured1,The policeman captured by the kidnapper
+list_1D_rev,target,rrc_ambig,rrc,captured,2,captured2,The witch captured
+list_1D_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_1D_rev,prime,rrc,NA,envied,1,envied1,The officer envied by the assistant
+list_1D_rev,target,rrc_ambig,rrc,envied,2,envied2,The principal envied
+list_1D_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_1D_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_1D_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_1D_rev,prime,prog_rrc,NA,examined,1,examined1,The defendant being examined by the lawyer
+list_1D_rev,target,rrc_ambig,prog_rrc,examined,2,examined2,The engineer examined
+list_1D_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_1D_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_1D_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_1D_rev,prime,rrc,NA,described,1,described1,The boy described by the lady
+list_1D_rev,target,rrc_ambig,rrc,described,2,described2,The secretary described
+list_1D_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_1D_rev,prime,rrc,NA,loved,1,loved1,The landlord loved by the tenants
+list_1D_rev,target,rrc_ambig,rrc,loved,2,loved2,The comedian loved
+list_1D_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_1D_rev,prime,rrc_ambig,NA,recorded,1,recorded1,The priest recorded
+list_1D_rev,target,rrc_ambig,rrc_ambig,recorded,2,recorded2,The management recorded
+list_1D_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2A_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2A_rev,prime,rrc_ambig,NA,sketched,2,sketched2,The apprentice sketched
+list_2A_rev,target,rrc_ambig,rrc_ambig,sketched,1,sketched1,The culprit sketched
+list_2A_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2A_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2A_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2A_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2A_rev,prime,prog_rrc,NA,introduced,2,introduced2,The producer being introduced by the association
+list_2A_rev,target,rrc_ambig,prog_rrc,introduced,1,introduced1,The speaker introduced
+list_2A_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2A_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2A_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2A_rev,prime,prog_rrc,NA,approached,2,approached2,The clerk being approached by the manager
+list_2A_rev,target,rrc_ambig,prog_rrc,approached,1,approached1,The student approached
+list_2A_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2A_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2A_rev,prime,urc,NA,admired,2,admired2,The princess who was admired by the magician
+list_2A_rev,target,rrc_ambig,urc,admired,1,admired1,The singer admired
+list_2A_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2A_rev,prime,rrc,NA,identified,2,identified2,The warden identified by the prisoner
+list_2A_rev,target,rrc_ambig,rrc,identified,1,identified1,The thief identified
+list_2A_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2A_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2A_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2A_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2A_rev,prime,prog_rrc,NA,encouraged,2,encouraged2,The musician being encouraged by the crowd
+list_2A_rev,target,rrc_ambig,prog_rrc,encouraged,1,encouraged1,The gymnast encouraged
+list_2A_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2A_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2A_rev,prime,rrc_ambig,NA,congratulated,2,congratulated2,The actress congratulated
+list_2A_rev,target,rrc_ambig,rrc_ambig,congratulated,1,congratulated1,The captain congratulated
+list_2A_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2A_rev,prime,prog_rrc,NA,selected,2,selected2,The professor being selected by the university
+list_2A_rev,target,rrc_ambig,prog_rrc,selected,1,selected1,The applicant selected
+list_2A_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2A_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2A_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2A_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2A_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2A_rev,prime,rrc_ambig,NA,challenged,2,challenged2,The scientist challenged
+list_2A_rev,target,rrc_ambig,rrc_ambig,challenged,1,challenged1,The protestors challenged
+list_2A_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2A_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2A_rev,prime,rrc,NA,betrayed,2,betrayed2,The king betrayed by the genie
+list_2A_rev,target,rrc_ambig,rrc,betrayed,1,betrayed1,The politician betrayed
+list_2A_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2A_rev,prime,rrc,NA,studied,2,studied2,The writer studied by the scholar
+list_2A_rev,target,rrc_ambig,rrc,studied,1,studied1,The solider studied
+list_2A_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2A_rev,prime,prog_rrc,NA,chased,2,chased2,The monkey being chased by the hatter
+list_2A_rev,target,rrc_ambig,prog_rrc,chased,1,chased1,The dog chased
+list_2A_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2A_rev,prime,rrc_ambig,NA,recognized,2,recognized2,The actor recognized
+list_2A_rev,target,rrc_ambig,rrc_ambig,recognized,1,recognized1,The man recognized
+list_2A_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2A_rev,prime,rrc,NA,accompanied,2,accompanied2,The children accompanied by the guardian
+list_2A_rev,target,rrc_ambig,rrc,accompanied,1,accompanied1,The prince accompanied
+list_2A_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2A_rev,prime,prog_rrc,NA,paid,2,paid2,The organization being paid by the government
+list_2A_rev,target,rrc_ambig,prog_rrc,paid,1,paid1,The cashier paid
+list_2A_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2A_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2A_rev,prime,rrc_ambig,NA,attacked,2,attacked2,The lion attacked
+list_2A_rev,target,rrc_ambig,rrc_ambig,attacked,1,attacked1,The troops attacked
+list_2A_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2A_rev,prime,rrc,NA,consoled,2,consoled2,The teenager consoled by the friend
+list_2A_rev,target,rrc_ambig,rrc,consoled,1,consoled1,The widow consoled by the family
+list_2A_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2A_rev,prime,urc,NA,scratched,2,scratched2,The toddler who was scratched by the table
+list_2A_rev,target,rrc_ambig,urc,scratched,1,scratched1,The girl scratched
+list_2A_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2A_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2A_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2A_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2A_rev,prime,urc,NA,captured,2,captured2,The witch who was captured by the peasant
+list_2A_rev,target,rrc_ambig,urc,captured,1,captured1,The policeman captured
+list_2A_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2A_rev,prime,urc,NA,envied,2,envied2,The principal who was envied by the administration
+list_2A_rev,target,rrc_ambig,urc,envied,1,envied1,The officer envied
+list_2A_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2A_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2A_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2A_rev,prime,rrc_ambig,NA,examined,2,examined2,The engineer examined
+list_2A_rev,target,rrc_ambig,rrc_ambig,examined,1,examined1,The defendant examined
+list_2A_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2A_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2A_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2A_rev,prime,urc,NA,described,2,described2,The secretary who was described by the visitor
+list_2A_rev,target,rrc_ambig,urc,described,1,described1,The boy described
+list_2A_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2A_rev,prime,urc,NA,loved,2,loved2,The comedian who was loved by the audience
+list_2A_rev,target,rrc_ambig,urc,loved,1,loved1,The landlord loved
+list_2A_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2A_rev,prime,rrc,NA,recorded,2,recorded2,The management recorded by the employee
+list_2A_rev,target,rrc_ambig,rrc,recorded,1,recorded1,The priest recorded
+list_2A_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2B_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2B_rev,prime,rrc,NA,sketched,2,sketched2,The apprentice sketched by the artist
+list_2B_rev,target,rrc_ambig,rrc,sketched,1,sketched1,The culprit sketched
+list_2B_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2B_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2B_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2B_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2B_rev,prime,rrc_ambig,NA,introduced,2,introduced2,The producer introduced
+list_2B_rev,target,rrc_ambig,rrc_ambig,introduced,1,introduced1,The speaker introduced
+list_2B_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2B_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2B_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2B_rev,prime,rrc_ambig,NA,approached,2,approached2,The clerk approached
+list_2B_rev,target,rrc_ambig,rrc_ambig,approached,1,approached1,The student approached
+list_2B_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2B_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2B_rev,prime,prog_rrc,NA,admired,2,admired2,The princess being admired by the magician
+list_2B_rev,target,rrc_ambig,prog_rrc,admired,1,admired1,The singer admired
+list_2B_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2B_rev,prime,urc,NA,identified,2,identified2,The warden who was identified by the prisoner
+list_2B_rev,target,rrc_ambig,urc,identified,1,identified1,The thief identified
+list_2B_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2B_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2B_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2B_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2B_rev,prime,rrc_ambig,NA,encouraged,2,encouraged2,The musician encouraged
+list_2B_rev,target,rrc_ambig,rrc_ambig,encouraged,1,encouraged1,The gymnast encouraged
+list_2B_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2B_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2B_rev,prime,rrc,NA,congratulated,2,congratulated2,The actress congratulated by the director
+list_2B_rev,target,rrc_ambig,rrc,congratulated,1,congratulated1,The captain congratulated
+list_2B_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2B_rev,prime,rrc_ambig,NA,selected,2,selected2,The professor selected
+list_2B_rev,target,rrc_ambig,rrc_ambig,selected,1,selected1,The applicant selected
+list_2B_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2B_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2B_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2B_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2B_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2B_rev,prime,rrc,NA,challenged,2,challenged2,The scientist challenged by the journalist
+list_2B_rev,target,rrc_ambig,rrc,challenged,1,challenged1,The protestors challenged
+list_2B_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2B_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2B_rev,prime,urc,NA,betrayed,2,betrayed2,The king who was betrayed by the genie
+list_2B_rev,target,rrc_ambig,urc,betrayed,1,betrayed1,The politician betrayed
+list_2B_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2B_rev,prime,urc,NA,studied,2,studied2,The writer who was studied by the scholar
+list_2B_rev,target,rrc_ambig,urc,studied,1,studied1,The solider studied
+list_2B_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2B_rev,prime,rrc_ambig,NA,chased,2,chased2,The monkey chased
+list_2B_rev,target,rrc_ambig,rrc_ambig,chased,1,chased1,The dog chased
+list_2B_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2B_rev,prime,rrc,NA,recognized,2,recognized2,The actor recognized by the reporter
+list_2B_rev,target,rrc_ambig,rrc,recognized,1,recognized1,The man recognized
+list_2B_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2B_rev,prime,urc,NA,accompanied,2,accompanied2,The children who were accompanied by the guardian
+list_2B_rev,target,rrc_ambig,urc,accompanied,1,accompanied1,The prince accompanied
+list_2B_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2B_rev,prime,rrc_ambig,NA,paid,2,paid2,The organization paid
+list_2B_rev,target,rrc_ambig,rrc_ambig,paid,1,paid1,The cashier paid
+list_2B_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2B_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2B_rev,prime,rrc,NA,attacked,2,attacked2,The lion attacked by the hunter
+list_2B_rev,target,rrc_ambig,rrc,attacked,1,attacked1,The troops attacked
+list_2B_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2B_rev,prime,urc,NA,consoled,2,consoled2,The teenager who was consoled by the friend
+list_2B_rev,target,rrc_ambig,urc,consoled,1,consoled1,The widow consoled by the family
+list_2B_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2B_rev,prime,prog_rrc,NA,scratched,2,scratched2,The toddler being scratched by the table
+list_2B_rev,target,rrc_ambig,prog_rrc,scratched,1,scratched1,The girl scratched
+list_2B_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2B_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2B_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2B_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2B_rev,prime,prog_rrc,NA,captured,2,captured2,The witch being captured by the peasant
+list_2B_rev,target,rrc_ambig,prog_rrc,captured,1,captured1,The policeman captured
+list_2B_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2B_rev,prime,prog_rrc,NA,envied,2,envied2,The principal being envied by the administration
+list_2B_rev,target,rrc_ambig,prog_rrc,envied,1,envied1,The officer envied
+list_2B_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2B_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2B_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2B_rev,prime,rrc,NA,examined,2,examined2,The engineer examined by the licensor
+list_2B_rev,target,rrc_ambig,rrc,examined,1,examined1,The defendant examined
+list_2B_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2B_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2B_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2B_rev,prime,prog_rrc,NA,described,2,described2,The secretary being described by the visitor
+list_2B_rev,target,rrc_ambig,prog_rrc,described,1,described1,The boy described
+list_2B_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2B_rev,prime,prog_rrc,NA,loved,2,loved2,The comedian being loved by the audience
+list_2B_rev,target,rrc_ambig,prog_rrc,loved,1,loved1,The landlord loved
+list_2B_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2B_rev,prime,urc,NA,recorded,2,recorded2,The management who was recorded by the employee
+list_2B_rev,target,rrc_ambig,urc,recorded,1,recorded1,The priest recorded
+list_2B_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2C_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2C_rev,prime,urc,NA,sketched,2,sketched2,The apprentice who was sketched by the artist
+list_2C_rev,target,rrc_ambig,urc,sketched,1,sketched1,The culprit sketched
+list_2C_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2C_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2C_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2C_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2C_rev,prime,rrc,NA,introduced,2,introduced2,The producer introduced by the association
+list_2C_rev,target,rrc_ambig,rrc,introduced,1,introduced1,The speaker introduced
+list_2C_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2C_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2C_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2C_rev,prime,rrc,NA,approached,2,approached2,The clerk approached by the manager
+list_2C_rev,target,rrc_ambig,rrc,approached,1,approached1,The student approached
+list_2C_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2C_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2C_rev,prime,rrc_ambig,NA,admired,2,admired2,The princess admired
+list_2C_rev,target,rrc_ambig,rrc_ambig,admired,1,admired1,The singer admired
+list_2C_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2C_rev,prime,prog_rrc,NA,identified,2,identified2,The warden being identified by the prisoner
+list_2C_rev,target,rrc_ambig,prog_rrc,identified,1,identified1,The thief identified
+list_2C_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2C_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2C_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2C_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2C_rev,prime,rrc,NA,encouraged,2,encouraged2,The musician encouraged by the crowd
+list_2C_rev,target,rrc_ambig,rrc,encouraged,1,encouraged1,The gymnast encouraged
+list_2C_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2C_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2C_rev,prime,urc,NA,congratulated,2,congratulated2,The actress who was congratulated by the director
+list_2C_rev,target,rrc_ambig,urc,congratulated,1,congratulated1,The captain congratulated
+list_2C_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2C_rev,prime,rrc,NA,selected,2,selected2,The professor selected by the university
+list_2C_rev,target,rrc_ambig,rrc,selected,1,selected1,The applicant selected
+list_2C_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2C_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2C_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2C_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2C_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2C_rev,prime,urc,NA,challenged,2,challenged2,The scientist who was challenged by the journalist
+list_2C_rev,target,rrc_ambig,urc,challenged,1,challenged1,The protestors challenged
+list_2C_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2C_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2C_rev,prime,prog_rrc,NA,betrayed,2,betrayed2,The king being betrayed by the genie
+list_2C_rev,target,rrc_ambig,prog_rrc,betrayed,1,betrayed1,The politician betrayed
+list_2C_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2C_rev,prime,prog_rrc,NA,studied,2,studied2,The writer being studied by the scholar
+list_2C_rev,target,rrc_ambig,prog_rrc,studied,1,studied1,The solider studied
+list_2C_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2C_rev,prime,rrc,NA,chased,2,chased2,The monkey chased by the hatter
+list_2C_rev,target,rrc_ambig,rrc,chased,1,chased1,The dog chased
+list_2C_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2C_rev,prime,urc,NA,recognized,2,recognized2,The actor who was recognized by the reporter
+list_2C_rev,target,rrc_ambig,urc,recognized,1,recognized1,The man recognized
+list_2C_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2C_rev,prime,prog_rrc,NA,accompanied,2,accompanied2,The children being accompanied by the guardian
+list_2C_rev,target,rrc_ambig,prog_rrc,accompanied,1,accompanied1,The prince accompanied
+list_2C_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2C_rev,prime,rrc,NA,paid,2,paid2,The organization paid by the government
+list_2C_rev,target,rrc_ambig,rrc,paid,1,paid1,The cashier paid
+list_2C_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2C_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2C_rev,prime,urc,NA,attacked,2,attacked2,The lion which was attacked by the hunter
+list_2C_rev,target,rrc_ambig,urc,attacked,1,attacked1,The troops attacked
+list_2C_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2C_rev,prime,prog_rrc,NA,consoled,2,consoled2,The teenager being consoled by the friend
+list_2C_rev,target,rrc_ambig,prog_rrc,consoled,1,consoled1,The widow consoled by the family
+list_2C_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2C_rev,prime,rrc_ambig,NA,scratched,2,scratched2,The toddler scratched
+list_2C_rev,target,rrc_ambig,rrc_ambig,scratched,1,scratched1,The girl scratched
+list_2C_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2C_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2C_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2C_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2C_rev,prime,rrc_ambig,NA,captured,2,captured2,The witch captured
+list_2C_rev,target,rrc_ambig,rrc_ambig,captured,1,captured1,The policeman captured
+list_2C_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2C_rev,prime,rrc_ambig,NA,envied,2,envied2,The principal envied
+list_2C_rev,target,rrc_ambig,rrc_ambig,envied,1,envied1,The officer envied
+list_2C_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2C_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2C_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2C_rev,prime,urc,NA,examined,2,examined2,The engineer who was examined by the licensor
+list_2C_rev,target,rrc_ambig,urc,examined,1,examined1,The defendant examined
+list_2C_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2C_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2C_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2C_rev,prime,rrc_ambig,NA,described,2,described2,The secretary described
+list_2C_rev,target,rrc_ambig,rrc_ambig,described,1,described1,The boy described
+list_2C_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2C_rev,prime,rrc_ambig,NA,loved,2,loved2,The comedian loved
+list_2C_rev,target,rrc_ambig,rrc_ambig,loved,1,loved1,The landlord loved
+list_2C_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2C_rev,prime,prog_rrc,NA,recorded,2,recorded2,The management being recorded by the employee
+list_2C_rev,target,rrc_ambig,prog_rrc,recorded,1,recorded1,The priest recorded
+list_2C_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
+list_2D_rev,filler,filler,NA,NA,NA,Filler24,The students eagerly participated
+list_2D_rev,prime,prog_rrc,NA,sketched,2,sketched2,The apprentice being sketched by the artist
+list_2D_rev,target,rrc_ambig,prog_rrc,sketched,1,sketched1,The culprit sketched
+list_2D_rev,filler,filler,NA,NA,NA,Filler25,The teenagers swore to
+list_2D_rev,filler,filler,NA,NA,NA,Filler5,The kindergartner bade good bye
+list_2D_rev,filler,filler,NA,NA,NA,Filler18,The talented lawyer argued that his client
+list_2D_rev,filler,filler,NA,NA,NA,Filler12,The babysitter ran frantically
+list_2D_rev,prime,urc,NA,introduced,2,introduced2,The producer who was introduced by the association
+list_2D_rev,target,rrc_ambig,urc,introduced,1,introduced1,The speaker introduced
+list_2D_rev,filler,filler,NA,NA,NA,Filler1,The new student talked
+list_2D_rev,filler,filler,NA,NA,NA,Filler26,The fish swam all around
+list_2D_rev,filler,filler,NA,NA,NA,Filler4,John became more frustrated with
+list_2D_rev,prime,urc,NA,approached,2,approached2,The clerk who was approached by the manager
+list_2D_rev,target,rrc_ambig,urc,approached,1,approached1,The student approached
+list_2D_rev,filler,filler,NA,NA,NA,Filler21,The chairman spoke for half an hour at
+list_2D_rev,filler,filler,NA,NA,NA,Filler27,The teacher saw through the
+list_2D_rev,prime,rrc,NA,admired,2,admired2,The princess admired by the magician
+list_2D_rev,target,rrc_ambig,rrc,admired,1,admired1,The singer admired
+list_2D_rev,filler,filler,NA,NA,NA,Filler28,The girl apologized to her parents for
+list_2D_rev,prime,rrc_ambig,NA,identified,2,identified2,The warden identified
+list_2D_rev,target,rrc_ambig,rrc_ambig,identified,1,identified1,The thief identified
+list_2D_rev,filler,filler,NA,NA,NA,Filler7,The spy came
+list_2D_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
+list_2D_rev,filler,filler,NA,NA,NA,Filler29,The sparkles on the celebrity's dress
+list_2D_rev,filler,filler,NA,NA,NA,Filler2,The ornate clock chimed
+list_2D_rev,prime,urc,NA,encouraged,2,encouraged2,The musician who was encouraged by the crowd
+list_2D_rev,target,rrc_ambig,urc,encouraged,1,encouraged1,The gymnast encouraged
+list_2D_rev,filler,filler,NA,NA,NA,Filler11,The singer practiced
+list_2D_rev,filler,filler,NA,NA,NA,Filler30,The film critic wept
+list_2D_rev,prime,prog_rrc,NA,congratulated,2,congratulated2,The actress being congratulated by the director
+list_2D_rev,target,rrc_ambig,prog_rrc,congratulated,1,congratulated1,The captain congratulated
+list_2D_rev,filler,filler,NA,NA,NA,Filler31,The laptops were too expensive for
+list_2D_rev,prime,urc,NA,selected,2,selected2,The professor who was selected by the university
+list_2D_rev,target,rrc_ambig,urc,selected,1,selected1,The applicant selected
+list_2D_rev,filler,filler,NA,NA,NA,Filler32,The pilots flew over the city where
+list_2D_rev,filler,filler,NA,NA,NA,Filler10,The jogger inhaled deeply
+list_2D_rev,filler,filler,NA,NA,NA,Filler19,The energetic cat
+list_2D_rev,filler,filler,NA,NA,NA,Filler20,The children shrank back from the clown
+list_2D_rev,filler,filler,NA,NA,NA,Filler8,The student pretended to
+list_2D_rev,prime,prog_rrc,NA,challenged,2,challenged2,The scientist being challenged by the journalist
+list_2D_rev,target,rrc_ambig,prog_rrc,challenged,1,challenged1,The protestors challenged
+list_2D_rev,filler,filler,NA,NA,NA,Filler33,All the parents at the meeting
+list_2D_rev,filler,filler,NA,NA,NA,Filler14,The woman eagerly waited
+list_2D_rev,prime,rrc_ambig,NA,betrayed,2,betrayed2,The king betrayed
+list_2D_rev,target,rrc_ambig,rrc_ambig,betrayed,1,betrayed1,The politician betrayed
+list_2D_rev,filler,filler,NA,NA,NA,Filler34,The hotel bathroom paint was
+list_2D_rev,prime,rrc_ambig,NA,studied,2,studied2,The writer studied
+list_2D_rev,target,rrc_ambig,rrc_ambig,studied,1,studied1,The solider studied
+list_2D_rev,filler,filler,NA,NA,NA,Filler35,The storekeepers were afraid that riots
+list_2D_rev,prime,urc,NA,chased,2,chased2,The monkey which was chased by the hatter
+list_2D_rev,target,rrc_ambig,urc,chased,1,chased1,The dog chased
+list_2D_rev,filler,filler,NA,NA,NA,Filler36,Each of the cab drivers
+list_2D_rev,prime,prog_rrc,NA,recognized,2,recognized2,The actor being recognized by the reporter
+list_2D_rev,target,rrc_ambig,prog_rrc,recognized,1,recognized1,The man recognized
+list_2D_rev,filler,filler,NA,NA,NA,Filler37,The girls on the basketball team
+list_2D_rev,prime,rrc_ambig,NA,accompanied,2,accompanied2,The children accompanied
+list_2D_rev,target,rrc_ambig,rrc_ambig,accompanied,1,accompanied1,The prince accompanied
+list_2D_rev,filler,filler,NA,NA,NA,Filler38,The school principal labored constantly all summer
+list_2D_rev,prime,urc,NA,paid,2,paid2,The organization which was paid by the government
+list_2D_rev,target,rrc_ambig,urc,paid,1,paid1,The cashier paid
+list_2D_rev,filler,filler,NA,NA,NA,Filler39,The wallpaper was a perfect choice for
+list_2D_rev,filler,filler,NA,NA,NA,Filler15,The basketball player's ankle
+list_2D_rev,prime,prog_rrc,NA,attacked,2,attacked2,The lion being attacked by the hunter
+list_2D_rev,target,rrc_ambig,prog_rrc,attacked,1,attacked1,The troops attacked
+list_2D_rev,filler,filler,NA,NA,NA,Filler40,The flags in the gym
+list_2D_rev,prime,rrc_ambig,NA,consoled,2,consoled2,The teenager consoled
+list_2D_rev,target,rrc_ambig,rrc_ambig,consoled,1,consoled1,The widow consoled by the family
+list_2D_rev,filler,filler,NA,NA,NA,Filler41,They drew lots to settle who should
+list_2D_rev,prime,rrc,NA,scratched,2,scratched2,The toddler scratched by the table
+list_2D_rev,target,rrc_ambig,rrc,scratched,1,scratched1,The girl scratched
+list_2D_rev,filler,filler,NA,NA,NA,Filler42,The dieting boy deprived himself of sweets and
+list_2D_rev,filler,filler,NA,NA,NA,Filler3,A different kind of fire arose within Andrew as
+list_2D_rev,filler,filler,NA,NA,NA,Filler23,The businessman
+list_2D_rev,filler,filler,NA,NA,NA,Filler16,The crossing deer froze in fear as
+list_2D_rev,prime,rrc,NA,captured,2,captured2,The witch captured by the peasant
+list_2D_rev,target,rrc_ambig,rrc,captured,1,captured1,The policeman captured
+list_2D_rev,filler,filler,NA,NA,NA,Filler43,The contestants each ate
+list_2D_rev,prime,rrc,NA,envied,2,envied2,The principal envied by the administration
+list_2D_rev,target,rrc_ambig,rrc,envied,1,envied1,The officer envied
+list_2D_rev,filler,filler,NA,NA,NA,Filler22,The rabbit hopped across the street
+list_2D_rev,filler,filler,NA,NA,NA,Filler44,The bulldozers were removing rubble from
+list_2D_rev,filler,filler,NA,NA,NA,Filler6,The married couple arose before dawn in order to
+list_2D_rev,prime,prog_rrc,NA,examined,2,examined2,The engineer being examined by the licensor
+list_2D_rev,target,rrc_ambig,prog_rrc,examined,1,examined1,The defendant examined
+list_2D_rev,filler,filler,NA,NA,NA,Filler9,Foreigners unfailingly fall in love with
+list_2D_rev,filler,filler,NA,NA,NA,Filler13,The friends studied together all day for
+list_2D_rev,filler,filler,NA,NA,NA,Filler45,Patrick woke up to find himself
+list_2D_rev,prime,rrc,NA,described,2,described2,The secretary described by the visitor
+list_2D_rev,target,rrc_ambig,rrc,described,1,described1,The boy described
+list_2D_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
+list_2D_rev,prime,rrc,NA,loved,2,loved2,The comedian loved by the audience
+list_2D_rev,target,rrc_ambig,rrc,loved,1,loved1,The landlord loved
+list_2D_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
+list_2D_rev,prime,rrc_ambig,NA,recorded,2,recorded2,The management recorded
+list_2D_rev,target,rrc_ambig,rrc_ambig,recorded,1,recorded1,The priest recorded
+list_2D_rev,filler,filler,NA,NA,NA,Filler48,Adam's hand shook slightly as
