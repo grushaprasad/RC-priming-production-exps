@@ -1,31 +1,26 @@
-td.PennController-Scale-scaleButton {
+.PennController-Scale-scaleButton {
     padding:15 30 15 30;
     color:blue;
     margin: 10px auto;
 
 }
 
-td.PennController-Scale-label {
+.PennController-Scale-label {
     font-size: larger
 }
 
-span.PennController-Text {
+.PennController-Text {
     font-size: x-large;
     padding: 30 30 30 30;
     margin: 10px auto;
-    position: 0px 250px;
+    position: relative;
 }
 
-button.PennController-Button {
+.PennController-Button {
     padding: 5px 5px 5px 5px;
     border-width: 10px;
     font-size: larger;
     margin: 50px;
 }
 
-input.PennController-TextInput {
-    margin: 50px;
-    min-width: 600px;
-    min-height: 200px;
 
-}

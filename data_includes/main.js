@@ -63,6 +63,14 @@ PennController("instructions",
 
 PennController.Template(row => PennController( "experiment" ,
     
+
+    newText("reminder", "Remember to re-type the prompt followed by your completion")
+        .settings.center()
+        .settings.css("font-size", "small")
+        .print()
+    ,
+
+
     newText("prompt", row.sentence)
         .settings.center()
         .print()
@@ -73,6 +81,7 @@ PennController.Template(row => PennController( "experiment" ,
     
     newTextInput("response")
       .print()
+      .settings.size(800, 75)
       .settings.log("final")
     ,
 
@@ -152,7 +161,7 @@ PennController("exp_end",
         .wait()            // Timer never started: will wait forever
 )
 
-//PennController.DebugOff()
+PennController.DebugOff()
 
 
 
