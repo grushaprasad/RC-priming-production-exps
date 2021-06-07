@@ -24,8 +24,5 @@ button.PennController-Button {
 }
 
 input.PennController-TextInput {
-    padding: 5px 5px 5px 5px;
-    border-width: 10px;
-    font-size: larger;
     margin: 50px
 }

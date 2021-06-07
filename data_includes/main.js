@@ -10,7 +10,6 @@ PennController.ResetPrefix(null);
 PennController("consent",
 
     newHtml("consent", "consent.html")
-        .settings.center()
         .settings.log()
         .print()
     ,
@@ -30,7 +29,6 @@ SetCounter("counter", "inc", 1);
 PennController("demographic",
 
     newHtml("demographics", "demographic.html")
-        .settings.center()
         .settings.log()
         .print()
     ,
@@ -67,7 +65,7 @@ PennController.Template(row => PennController( "experiment" ,
     
     newText("prompt", row.sentence)
         .settings.center()
-        .settings.css("margin", "20px")
+//        .settings.css("margin", "20px")
         .print()
     ,
 
