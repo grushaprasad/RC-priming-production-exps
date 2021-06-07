@@ -71,6 +71,7 @@ PennController.Template(row => PennController( "experiment" ,
 
     newText("prompt", row.sentence)
         .settings.center()
+        .settings.css("user-select", "none")
         .print()
     ,
 
@@ -83,7 +84,7 @@ PennController.Template(row => PennController( "experiment" ,
       .settings.log("final")
     ,
 
-    
+
     newButton("continue", "Next prompt")
         .settings.center()
         .settings.css("margin", "20px")
