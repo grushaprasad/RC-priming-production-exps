@@ -1,6 +1,6 @@
 // PennController.Sequence( "instructions", randomize("practice_trial1"), "start_exp1", randomize("without_precursor"), "end_part1", randomize("practice_trial2"), "start_exp2", randomize("with_precursor"), "demographic", "send_results", "exp_end");
 
-PennController.Sequence("consent", "instructions", "experiment", "demographic", "participant_obs", "send_results", "exp_end");
+PennController.Sequence("consent", "instructions", "demographic", "experiment", "participant_obs", "send_results", "exp_end");
 
 PennController.ResetPrefix(null);
 
@@ -41,116 +41,6 @@ PennController("instructions",
 );
 
 
-
-PennController.Template(row => PennController( "experiment" ,
-    
-    newText("Prime", row.prime)
-        .settings.center()
-        .print()
-    ,
-
-    newVar("RT_prime").global().set( v_prime => Date.now())
-    ,
-    
-    newButton("prime", "Continue")
-        .settings.center()
-        .settings.log()
-        .print()
-        .wait()
-        .remove()
-    ,
-
-    getVar("RT_prime").set( v_prime => Date.now() - v_prime )
-    ,
-
-    getText("Prime")
-        .remove()
-    ,
-
-    newVar("RT_target").global().set( v_target => Date.now())
-    ,
-
-    newText("Target", row.target)
-        .settings.center()
-        .print()
-    ,
-        
-    newButton("target", "Continue")
-        .settings.center()
-        .settings.log()
-        .print()
-        .wait()
-        .remove()
-    ,
-
-    getVar("RT_target").set( v_target => Date.now() - v_target )
-    ,
-
-    getText("Target")
-        .remove()
-    ,
-
-    newText("transition", " ")
-        .settings.center()
-        .print()
-    ,
-
-    newTimer("ITI", 1000)
-        .start()
-        .wait()
-    ,
-
-    getText("transition")
-        .remove()
-    ,
-
-    newVar("RT_resp").global().set(v_resp => Date.now())
-    ,
-
-    newText("Question", row.question)
-        .settings.center()
-        .print()
-    ,
-
-    newScale("response",   "Yes", "No")
-        .settings.log()
-        .settings.labelsPosition("top")  // Position the labels
-        .settings.center()
-        .print()
-        .wait()
-    ,
-
-    getVar("RT_resp").set( v_resp => Date.now() - v_resp )
-    ,
-
-    getText("Question")
-        .remove()
-
-    ,
-
-    getScale("response")
-        .remove()
-    ,
-
-
-    newTimer("ITI", 1000)
-        .start()
-        .wait()
-    )
-
-    .log("prime_type", row.prime_type)
-    .log("target_type", row.target_type)
-    .log("prime_id", row.prime_id)
-    .log("target_id", row.target_id)
-    .log("answer", row.answer)
-    .log("ques_ind", row.ques_ind)
-    .log("group", row.Group)
-    .log("RT_prime", getVar("RT_prime"))
-    .log("RT_target", getVar("RT_target"))
-    .log("RT_resp", getVar("RT_resp"))
-);
-
-
 PennController("demographic",
 
     newHtml("demographics", "demographic.html")
@@ -166,6 +56,71 @@ PennController("demographic",
                 .failure( getHtml("demographics").warn() )
         )
 );
+
+
+
+PennController.Template(row => PennController( "experiment" ,
+    
+    newText("prompt", row.sentence)
+        .settings.center()
+        .print()
+    ,
+
+    newVar("RT").global().set(v_rt => Date.now())
+    ,
+    
+    newTextInput("response")
+      .print()
+      .wait()
+      .settings.log("final")
+    ,
+
+
+    newButton("continue", "Next prompt")
+        .settings.center()
+        .settings.log()
+        .print()
+        .wait(getTextInput("response").test.text(row.sentence/\w+/))
+        .remove()
+    ,
+
+    getVar("RT").set( v_rt => Date.now() - v_rt )
+    ,
+    
+    getText("prompt")
+        .remove()
+    ,
+
+    getTextInput("response")
+        .remove()
+
+
+    newText("transition", " ")
+        .settings.center()
+        .print()
+    ,
+
+    newTimer("ITI", 1000)
+        .start()
+        .wait()
+    ,
+
+    getText("transition")
+        .remove()
+    ,
+
+    .log("sent_type", row.sent_type)
+    .log("struc", row.struc)
+    .log("prime_type", row.prime_type)
+    .log("verb", row.verb)
+    .log("verb_num", row.verb_num)
+    .log("sent_id", row.sent_id)
+    .log("sentence", row.sentence)
+    .log("RT", getVar("RT"))
+    .log("RT_target", getVar("RT_target"))
+    .log("RT_resp", getVar("RT_resp"))
+);
+
 
 PennController("participant_obs",
 
@@ -194,7 +149,7 @@ PennController("exp_end",
         .wait()            // Timer never started: will wait forever
 )
 
-PennController.DebugOff()
+//PennController.DebugOff()
 
 
 
