@@ -78,7 +78,6 @@ PennController.Template(row => PennController( "experiment" ,
 
     newButton("continue", "Next prompt")
         .settings.center()
-        .settings.css("font-size", "larger")
         .settings.log()
         .print()
         .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\\s+\\w+", 'i')))

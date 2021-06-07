@@ -16,7 +16,7 @@ span.PennController-Text {
     position: 0px 250px;
 }
 
-button.PennController-Button {
+td.PennController-Button {
     padding: 5px 5px 5px 5px;
     border-width: 10px;
     font-size: larger;
