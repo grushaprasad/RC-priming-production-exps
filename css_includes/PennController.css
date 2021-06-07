@@ -20,12 +20,12 @@ button.PennController-Button {
     padding: 5px 5px 5px 5px;
     border-width: 10px;
     font-size: larger;
-    margin: 50px
+    margin: 50px;
 }
 
 input.PennController-TextInput {
     margin: 50px;
-    width: 100%;
-    height: 100%
+    min-width: 600px;
+    min-height: 200px;
 
 }
