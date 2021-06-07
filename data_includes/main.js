@@ -63,13 +63,11 @@ PennController("instructions",
 
 PennController.Template(row => PennController( "experiment" ,
     
-
     newText("reminder", "Remember to re-type the prompt followed by your completion")
         .settings.center()
         .settings.css("font-size", "small")
         .print()
     ,
-
 
     newText("prompt", row.sentence)
         .settings.center()
@@ -85,7 +83,7 @@ PennController.Template(row => PennController( "experiment" ,
       .settings.log("final")
     ,
 
-
+    
     newButton("continue", "Next prompt")
         .settings.center()
         .settings.css("margin", "20px")
@@ -94,6 +92,12 @@ PennController.Template(row => PennController( "experiment" ,
         .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\\s+\\w+", 'i')))
         .remove()
     ,
+
+    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> Do not refresh the page. Your progress will be lost</b>")
+        .settings.center()
+        .print()
+    ,
+
 
     getVar("RT").set( v_rt => Date.now() - v_rt )
     ,
