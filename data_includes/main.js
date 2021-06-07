@@ -84,8 +84,9 @@ PennController.Template(row => PennController( "experiment" ,
       .settings.log("final")
     ,
 
-    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> Do not refresh the page. Your progress will be lost</b>")
+    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> <br> Do not refresh the page. Your progress will be lost</b>")
         .settings.center()
+        .settings.css("font-size", "medium")
         .print()
     ,
 
