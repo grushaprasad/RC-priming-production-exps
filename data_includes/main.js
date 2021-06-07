@@ -1,6 +1,6 @@
 // PennController.Sequence( "instructions", randomize("practice_trial1"), "start_exp1", randomize("without_precursor"), "end_part1", randomize("practice_trial2"), "start_exp2", randomize("with_precursor"), "demographic", "send_results", "exp_end");
 
-PennController.Sequence("consent", "instructions", "demographic", "experiment", "participant_obs", "send_results", "exp_end");
+PennController.Sequence("consent", "counter", "demographic", "instructions",, "experiment", "participant_obs", "send_results", "exp_end");
 
 PennController.ResetPrefix(null);
 
@@ -23,22 +23,7 @@ PennController("consent",
         )
 );
 
-
-PennController("instructions",
-
-    newHtml("instructions", "instructions.html")
-        .settings.log()
-        .print()
-    ,
-
-    newButton("continue", "Start experiment")
-        .settings.css("font-size", "larger")
-        .print()
-        .wait(
-            getHtml("instructions").test.complete()
-                .failure( getHtml("instructions").warn() )
-        )
-);
+SetCounter("counter", "inc", 1);
 
 
 PennController("demographic",
@@ -58,6 +43,22 @@ PennController("demographic",
 );
 
 
+PennController("instructions",
+
+    newHtml("instructions", "instructions.html")
+        .settings.log()
+        .print()
+    ,
+
+    newButton("continue", "Start experiment")
+        .settings.css("font-size", "larger")
+        .print()
+        .wait(
+            getHtml("instructions").test.complete()
+                .failure( getHtml("instructions").warn() )
+        )
+);
+
 
 PennController.Template(row => PennController( "experiment" ,
     
@@ -71,7 +72,6 @@ PennController.Template(row => PennController( "experiment" ,
     
     newTextInput("response")
       .print()
-      .wait()
       .settings.log("final")
     ,
 
@@ -80,7 +80,7 @@ PennController.Template(row => PennController( "experiment" ,
         .settings.center()
         .settings.log()
         .print()
-        .wait(getTextInput("response").test.text(row.sentence/\w+/))
+        .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\s+\w+", 'i'))
         .remove()
     ,
 
@@ -93,7 +93,7 @@ PennController.Template(row => PennController( "experiment" ,
 
     getTextInput("response")
         .remove()
-
+    ,
 
     newText("transition", " ")
         .settings.center()
@@ -107,7 +107,8 @@ PennController.Template(row => PennController( "experiment" ,
 
     getText("transition")
         .remove()
-    ,
+    
+    )
 
     .log("sent_type", row.sent_type)
     .log("struc", row.struc)
