@@ -5,7 +5,7 @@ list_1A,prime,rrc,NA,approached,1,approached1,The student approached by the teac
 list_1A,target,rrc_ambig,rrc,approached,2,approached2,The clerk approached
 list_1A,filler,filler,NA,NA,NA,Filler7,The spy came
 list_1A,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
-list_1A,prime,prog_rrc,NA,studied,1,studied1,The solider being studied by the general
+list_1A,prime,prog_rrc,NA,studied,1,studied1,The soldier being studied by the general
 list_1A,target,rrc_ambig,prog_rrc,studied,2,studied2,The writer studied
 list_1A,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_1A,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
@@ -101,7 +101,7 @@ list_1B,prime,urc,NA,approached,1,approached1,The student who was approached by 
 list_1B,target,rrc_ambig,urc,approached,2,approached2,The clerk approached
 list_1B,filler,filler,NA,NA,NA,Filler7,The spy came
 list_1B,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
-list_1B,prime,rrc_ambig,NA,studied,1,studied1,The solider studied
+list_1B,prime,rrc_ambig,NA,studied,1,studied1,The soldier studied
 list_1B,target,rrc_ambig,rrc_ambig,studied,2,studied2,The writer studied
 list_1B,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_1B,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
@@ -197,7 +197,7 @@ list_1C,prime,prog_rrc,NA,approached,1,approached1,The student being approached 
 list_1C,target,rrc_ambig,prog_rrc,approached,2,approached2,The clerk approached
 list_1C,filler,filler,NA,NA,NA,Filler7,The spy came
 list_1C,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
-list_1C,prime,rrc,NA,studied,1,studied1,The solider studied by the general
+list_1C,prime,rrc,NA,studied,1,studied1,The soldier studied by the general
 list_1C,target,rrc_ambig,rrc,studied,2,studied2,The writer studied
 list_1C,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_1C,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
@@ -293,7 +293,7 @@ list_1D,prime,rrc_ambig,NA,approached,1,approached1,The student approached
 list_1D,target,rrc_ambig,rrc_ambig,approached,2,approached2,The clerk approached
 list_1D,filler,filler,NA,NA,NA,Filler7,The spy came
 list_1D,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
-list_1D,prime,urc,NA,studied,1,studied1,The solider who was studied by the general
+list_1D,prime,urc,NA,studied,1,studied1,The soldier who was studied by the general
 list_1D,target,rrc_ambig,urc,studied,2,studied2,The writer studied
 list_1D,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_1D,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
@@ -390,7 +390,7 @@ list_2A,target,rrc_ambig,rrc,approached,1,approached1,The student approached
 list_2A,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2A,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2A,prime,prog_rrc,NA,studied,2,studied2,The writer being studied by the scholar
-list_2A,target,rrc_ambig,prog_rrc,studied,1,studied1,The solider studied
+list_2A,target,rrc_ambig,prog_rrc,studied,1,studied1,The soldier studied
 list_2A,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2A,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2A,prime,urc,NA,envied,2,envied2,The principal who was envied by the administration
@@ -486,7 +486,7 @@ list_2B,target,rrc_ambig,urc,approached,1,approached1,The student approached
 list_2B,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2B,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2B,prime,rrc_ambig,NA,studied,2,studied2,The writer studied
-list_2B,target,rrc_ambig,rrc_ambig,studied,1,studied1,The solider studied
+list_2B,target,rrc_ambig,rrc_ambig,studied,1,studied1,The soldier studied
 list_2B,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2B,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2B,prime,prog_rrc,NA,envied,2,envied2,The principal being envied by the administration
@@ -582,7 +582,7 @@ list_2C,target,rrc_ambig,prog_rrc,approached,1,approached1,The student approache
 list_2C,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2C,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2C,prime,rrc,NA,studied,2,studied2,The writer studied by the scholar
-list_2C,target,rrc_ambig,rrc,studied,1,studied1,The solider studied
+list_2C,target,rrc_ambig,rrc,studied,1,studied1,The soldier studied
 list_2C,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2C,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2C,prime,rrc_ambig,NA,envied,2,envied2,The principal envied
@@ -678,7 +678,7 @@ list_2D,target,rrc_ambig,rrc_ambig,approached,1,approached1,The student approach
 list_2D,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2D,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2D,prime,urc,NA,studied,2,studied2,The writer who was studied by the scholar
-list_2D,target,rrc_ambig,urc,studied,1,studied1,The solider studied
+list_2D,target,rrc_ambig,urc,studied,1,studied1,The soldier studied
 list_2D,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2D,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2D,prime,rrc,NA,envied,2,envied2,The principal envied by the administration
@@ -855,7 +855,7 @@ list_1A_rev,prime,urc,NA,envied,1,envied1,The officer who was envied by the assi
 list_1A_rev,target,rrc_ambig,urc,envied,2,envied2,The principal envied
 list_1A_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_1A_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
-list_1A_rev,prime,prog_rrc,NA,studied,1,studied1,The solider being studied by the general
+list_1A_rev,prime,prog_rrc,NA,studied,1,studied1,The soldier being studied by the general
 list_1A_rev,target,rrc_ambig,prog_rrc,studied,2,studied2,The writer studied
 list_1A_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_1A_rev,filler,filler,NA,NA,NA,Filler7,The spy came
@@ -951,7 +951,7 @@ list_1B_rev,prime,prog_rrc,NA,envied,1,envied1,The officer being envied by the a
 list_1B_rev,target,rrc_ambig,prog_rrc,envied,2,envied2,The principal envied
 list_1B_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_1B_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
-list_1B_rev,prime,rrc_ambig,NA,studied,1,studied1,The solider studied
+list_1B_rev,prime,rrc_ambig,NA,studied,1,studied1,The soldier studied
 list_1B_rev,target,rrc_ambig,rrc_ambig,studied,2,studied2,The writer studied
 list_1B_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_1B_rev,filler,filler,NA,NA,NA,Filler7,The spy came
@@ -1047,7 +1047,7 @@ list_1C_rev,prime,rrc_ambig,NA,envied,1,envied1,The officer envied
 list_1C_rev,target,rrc_ambig,rrc_ambig,envied,2,envied2,The principal envied
 list_1C_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_1C_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
-list_1C_rev,prime,rrc,NA,studied,1,studied1,The solider studied by the general
+list_1C_rev,prime,rrc,NA,studied,1,studied1,The soldier studied by the general
 list_1C_rev,target,rrc_ambig,rrc,studied,2,studied2,The writer studied
 list_1C_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_1C_rev,filler,filler,NA,NA,NA,Filler7,The spy came
@@ -1143,7 +1143,7 @@ list_1D_rev,prime,rrc,NA,envied,1,envied1,The officer envied by the assistant
 list_1D_rev,target,rrc_ambig,rrc,envied,2,envied2,The principal envied
 list_1D_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_1D_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
-list_1D_rev,prime,urc,NA,studied,1,studied1,The solider who was studied by the general
+list_1D_rev,prime,urc,NA,studied,1,studied1,The soldier who was studied by the general
 list_1D_rev,target,rrc_ambig,urc,studied,2,studied2,The writer studied
 list_1D_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_1D_rev,filler,filler,NA,NA,NA,Filler7,The spy came
@@ -1240,7 +1240,7 @@ list_2A_rev,target,rrc_ambig,urc,envied,1,envied1,The officer envied
 list_2A_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2A_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2A_rev,prime,prog_rrc,NA,studied,2,studied2,The writer being studied by the scholar
-list_2A_rev,target,rrc_ambig,prog_rrc,studied,1,studied1,The solider studied
+list_2A_rev,target,rrc_ambig,prog_rrc,studied,1,studied1,The soldier studied
 list_2A_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2A_rev,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2A_rev,prime,rrc,NA,approached,2,approached2,The clerk approached by the manager
@@ -1336,7 +1336,7 @@ list_2B_rev,target,rrc_ambig,prog_rrc,envied,1,envied1,The officer envied
 list_2B_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2B_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2B_rev,prime,rrc_ambig,NA,studied,2,studied2,The writer studied
-list_2B_rev,target,rrc_ambig,rrc_ambig,studied,1,studied1,The solider studied
+list_2B_rev,target,rrc_ambig,rrc_ambig,studied,1,studied1,The soldier studied
 list_2B_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2B_rev,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2B_rev,prime,urc,NA,approached,2,approached2,The clerk who was approached by the manager
@@ -1432,7 +1432,7 @@ list_2C_rev,target,rrc_ambig,rrc_ambig,envied,1,envied1,The officer envied
 list_2C_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2C_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2C_rev,prime,rrc,NA,studied,2,studied2,The writer studied by the scholar
-list_2C_rev,target,rrc_ambig,rrc,studied,1,studied1,The solider studied
+list_2C_rev,target,rrc_ambig,rrc,studied,1,studied1,The soldier studied
 list_2C_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2C_rev,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2C_rev,prime,prog_rrc,NA,approached,2,approached2,The clerk being approached by the manager
@@ -1528,7 +1528,7 @@ list_2D_rev,target,rrc_ambig,rrc,envied,1,envied1,The officer envied
 list_2D_rev,filler,filler,NA,NA,NA,Filler46,Maria went upstairs and
 list_2D_rev,filler,filler,NA,NA,NA,Filler17,The seated boy rose up to answer
 list_2D_rev,prime,urc,NA,studied,2,studied2,The writer who was studied by the scholar
-list_2D_rev,target,rrc_ambig,urc,studied,1,studied1,The solider studied
+list_2D_rev,target,rrc_ambig,urc,studied,1,studied1,The soldier studied
 list_2D_rev,filler,filler,NA,NA,NA,Filler47,Lily trod on a lot of toes when
 list_2D_rev,filler,filler,NA,NA,NA,Filler7,The spy came
 list_2D_rev,prime,rrc_ambig,NA,approached,2,approached2,The clerk approached
