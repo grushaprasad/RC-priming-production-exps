@@ -63,7 +63,7 @@ PennController("instructions",
 
 PennController.Template(row => PennController( "experiment" ,
     
-    newText("reminder", "<b>Remember to re-type the prompt followed by your completion</b>")
+    newText("reminder", "<b>Remember you do have to re-type the prompt. Complete the sentences with the first thing that comes to mind.</b>")
         .settings.center()
         .settings.css("font-size", "small")
         .print()
@@ -84,18 +84,19 @@ PennController.Template(row => PennController( "experiment" ,
       .settings.log("final")
     ,
 
-    newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> <br> Do not refresh the page. Your progress will be lost</b>")
-        .settings.center()
-        .settings.css("font-size", "medium")
-        .print()
-    ,
+    // newText("troubleshooting", "Trouble progressing? Make sure that you typed in the prompt correctly. <b> <br> Do not refresh the page. Your progress will be lost</b>")
+    //     .settings.center()
+    //     .settings.css("font-size", "medium")
+    //     .print()
+    // ,
 
     newButton("continue", "Next prompt")
         .settings.center()
         .settings.css("margin", "20px")
         .settings.log()
         .print()
-        .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\\s+\\w+", 'i')))
+        // .wait(getTextInput("response").test.text(new RegExp(row.sentence+"\\s+\\w+", 'i')))
+        .wait(getTextInput("response").test.text(new RegExp("\\w+")))
         .remove()
     ,
 
@@ -137,6 +138,7 @@ PennController.Template(row => PennController( "experiment" ,
     .log("RT", getVar("RT"))
     .log("RT_target", getVar("RT_target"))
     .log("RT_resp", getVar("RT_resp"))
+    .log("List", row.Group)
 );
 
 
